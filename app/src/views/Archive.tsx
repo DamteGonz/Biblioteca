@@ -1,0 +1,114 @@
+import { useMemo, useState } from "react";
+import { Cover } from "../components/Cover";
+import { NotaBadge } from "../components/RatingPicker";
+import { useStore } from "../lib/store";
+import { AÑOS, ESTADOS, TIPOS, notaEnAño, type Estado, type Item, type Tipo } from "../lib/types";
+
+type Periodo = "todo" | "pre" | number;
+type Filtro = "vistos" | "pendientes" | "a_medias" | "sin_nota";
+type Orden = "nota" | "titulo" | "reciente" | "estreno";
+
+const FILTROS: { id: Filtro; nombre: string; estados: Estado[] }[] = [
+  { id: "vistos", nombre: "Vistos", estados: ["visto", "en_curso", "en_emision"] },
+  { id: "pendientes", nombre: "Pendientes", estados: ["pendiente"] },
+  { id: "a_medias", nombre: "A medias", estados: ["en_curso", "en_emision"] },
+  { id: "sin_nota", nombre: "Sin nota", estados: ["visto", "en_curso", "en_emision"] },
+];
+
+export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
+  const { items } = useStore();
+  const [tipo, setTipo] = useState<Tipo | "todo">("todo");
+  const [periodo, setPeriodo] = useState<Periodo>("todo");
+  const [filtro, setFiltro] = useState<Filtro>("vistos");
+  const [orden, setOrden] = useState<Orden>("nota");
+  const [q, setQ] = useState("");
+
+  const lista = useMemo(() => {
+    const f = FILTROS.find((x) => x.id === filtro)!;
+    const texto = q.trim().toLowerCase();
+    const res = items.filter((it) => {
+      if (tipo !== "todo" && it.type !== tipo) return false;
+      if (!f.estados.includes(it.status)) return false;
+      if (filtro === "sin_nota" && it.rating != null) return false;
+      if (periodo === "pre" && !it.pre2021) return false;
+      if (typeof periodo === "number" && !it.years.includes(periodo)) return false;
+      if (texto && !`${it.title} ${it.original_title ?? ""}`.toLowerCase().includes(texto)) return false;
+      return true;
+    });
+    const nota = (it: Item) => (typeof periodo === "number" ? notaEnAño(it, periodo) : it.rating) ?? -1;
+    res.sort((a, b) =>
+      orden === "nota" ? nota(b) - nota(a) || a.title.localeCompare(b.title)
+      : orden === "titulo" ? a.title.localeCompare(b.title)
+      : orden === "estreno" ? (b.release_year ?? 0) - (a.release_year ?? 0)
+      : b.updated_at.localeCompare(a.updated_at),
+    );
+    return res;
+  }, [items, tipo, periodo, filtro, orden, q]);
+
+  const media = useMemo(() => {
+    const n = lista.map((it) => (typeof periodo === "number" ? notaEnAño(it, periodo) : it.rating)).filter((x): x is number => x != null);
+    return n.length ? (n.reduce((a, b) => a + b, 0) / n.length).toFixed(2).replace(".", ",") : null;
+  }, [lista, periodo]);
+
+  return (
+    <section className="archivo">
+      <header className="barra">
+        <h1>Mi archivo</h1>
+        <input className="buscar" type="search" placeholder="Buscar…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Buscar" />
+      </header>
+
+      <div className="chips" role="tablist" aria-label="Tipo">
+        <button className={`chip ${tipo === "todo" ? "on" : ""}`} onClick={() => setTipo("todo")}>Todo</button>
+        {TIPOS.map((t) => (
+          <button key={t.id} className={`chip ${tipo === t.id ? "on" : ""}`} onClick={() => setTipo(t.id)}>
+            {t.icono} {t.plural}
+          </button>
+        ))}
+      </div>
+
+      <div className="chips" aria-label="Periodo">
+        <button className={`chip suave ${periodo === "todo" ? "on" : ""}`} onClick={() => setPeriodo("todo")}>Toda mi vida</button>
+        {AÑOS.map((a) => (
+          <button key={a} className={`chip suave ${periodo === a ? "on" : ""}`} onClick={() => setPeriodo(a)}>{a}</button>
+        ))}
+        <button className={`chip suave ${periodo === "pre" ? "on" : ""}`} onClick={() => setPeriodo("pre")}>Antes de 2021</button>
+      </div>
+
+      <div className="fila-controles">
+        <div className="segmentado">
+          {FILTROS.map((f) => (
+            <button key={f.id} className={filtro === f.id ? "on" : ""} onClick={() => setFiltro(f.id)}>{f.nombre}</button>
+          ))}
+        </div>
+        <select value={orden} onChange={(e) => setOrden(e.target.value as Orden)} aria-label="Ordenar">
+          <option value="nota">Por nota</option>
+          <option value="titulo">A–Z</option>
+          <option value="estreno">Por estreno</option>
+          <option value="reciente">Últimos cambios</option>
+        </select>
+      </div>
+
+      <p className="resumen-lista">
+        {lista.length} {lista.length === 1 ? "título" : "títulos"}
+        {media && filtro !== "pendientes" && <> · media <strong>{media}</strong></>}
+      </p>
+
+      {lista.length === 0 ? (
+        <p className="vacio">No hay nada aquí todavía.</p>
+      ) : (
+        <ul className="rejilla">
+          {lista.map((it) => (
+            <li key={it.id}>
+              <button className="tarjeta" onClick={() => onAbrir(it)}>
+                <Cover src={it.cover} title={it.title} type={it.type} />
+                <NotaBadge n={typeof periodo === "number" ? notaEnAño(it, periodo) : it.rating} />
+                {(it.status === "en_curso" || it.status === "en_emision") && <span className="etiqueta">{ESTADOS[it.status]}</span>}
+                <span className="tarjeta-titulo">{it.title}</span>
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+    </section>
+  );
+}

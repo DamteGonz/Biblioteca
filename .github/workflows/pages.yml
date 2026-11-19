@@ -1,0 +1,57 @@
+name: Publicar app
+
+on:
+  push:
+    branches: [ccr-c0102d6e-wx67pu]
+    paths: ["app/**", "data/**", "scripts/build_app_data.py", ".github/workflows/pages.yml"]
+  workflow_run:
+    workflows: ["Datos de juegos (IGDB)"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ccr-c0102d6e-wx67pu
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Datos para la app
+        working-directory: scripts
+        run: python build_app_data.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - name: Compilar
+        working-directory: app
+        run: |
+          npm ci
+          npm run build
+          cp dist/index.html dist/404.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: app/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

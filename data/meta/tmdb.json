@@ -1,0 +1,1478 @@
+{
+ "movie-2001-a-space-odyssey": {
+  "tmdbId": 62,
+  "kind": "movie",
+  "title": "2001. Una odisea del espacio",
+  "original": "2001: A Space Odyssey",
+  "year": 1968,
+  "poster": "/pGabanxaE2YvN4jhZuSN3oXO0mi.jpg",
+  "votes": 13173,
+  "genres": [
+   878,
+   9648,
+   12
+  ]
+ },
+ "movie-about-time": {
+  "tmdbId": 122906,
+  "kind": "movie",
+  "title": "Una cuestión de tiempo",
+  "original": "About Time",
+  "year": 2013,
+  "poster": "/dsop3YIrZJvDBwwCLplsB9PFuTQ.jpg",
+  "votes": 9666,
+  "genres": [
+   18,
+   10749,
+   14
+  ]
+ },
+ "movie-air": {
+  "tmdbId": 964980,
+  "kind": "movie",
+  "title": "Air",
+  "original": "Air",
+  "year": 2023,
+  "poster": "/4ypRUscxdPXjF2o3BzsKsCUrkpK.jpg",
+  "votes": 2536,
+  "genres": [
+   18,
+   36
+  ]
+ },
+ "movie-alphago": {
+  "tmdbId": 455008,
+  "kind": "movie",
+  "title": "AlphaGo",
+  "original": "AlphaGo",
+  "year": 2017,
+  "poster": "/zDxZwTCX22gYREAy73wiibzu9H6.jpg",
+  "votes": 167,
+  "genres": [
+   99
+  ]
+ },
+ "movie-american-psycho": {
+  "tmdbId": 1359,
+  "kind": "movie",
+  "title": "American Psycho",
+  "original": "American Psycho",
+  "year": 2000,
+  "poster": "/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg",
+  "votes": 13023,
+  "genres": [
+   53,
+   18,
+   80
+  ]
+ },
+ "movie-another-round": {
+  "tmdbId": 1156965,
+  "kind": "movie",
+  "title": "Another Round",
+  "original": "Another Round",
+  "year": 2018,
+  "poster": "/zjKqQKSlGDscTTGwwu5OCHdeT4X.jpg",
+  "votes": 0,
+  "genres": [
+   35
+  ]
+ },
+ "movie-baby-driver": {
+  "tmdbId": 339403,
+  "kind": "movie",
+  "title": "Baby Driver",
+  "original": "Baby Driver",
+  "year": 2017,
+  "poster": "/o2YToge3eBhxC89m87zkWKVEx2O.jpg",
+  "votes": 17444,
+  "genres": [
+   28,
+   80
+  ]
+ },
+ "movie-back-to-the-future": {
+  "tmdbId": 105,
+  "kind": "movie",
+  "title": "Regreso al futuro",
+  "original": "Back to the Future",
+  "year": 1985,
+  "poster": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+  "votes": 22794,
+  "genres": [
+   12,
+   35,
+   878
+  ]
+ },
+ "movie-back-to-the-future-part-ii": {
+  "tmdbId": 165,
+  "kind": "movie",
+  "title": "Regreso al futuro II",
+  "original": "Back to the Future Part II",
+  "year": 1989,
+  "poster": "/oTiQdzBOP5biNvzvrSPAvPxiSKH.jpg",
+  "votes": 14538,
+  "genres": [
+   12,
+   35,
+   878
+  ]
+ },
+ "movie-barbie": {
+  "tmdbId": 346698,
+  "kind": "movie",
+  "title": "Barbie",
+  "original": "Barbie",
+  "year": 2023,
+  "poster": "/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+  "votes": 11832,
+  "genres": [
+   35,
+   12,
+   14
+  ]
+ },
+ "movie-black-panther-wakanda-forever": {
+  "tmdbId": 505642,
+  "kind": "movie",
+  "title": "Black Panther: Wakanda Forever",
+  "original": "Black Panther: Wakanda Forever",
+  "year": 2022,
+  "poster": "/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+  "votes": 7955,
+  "genres": [
+   28,
+   12,
+   878
+  ]
+ },
+ "movie-blade-runner-2049": {
+  "tmdbId": 335984,
+  "kind": "movie",
+  "title": "Blade Runner 2049",
+  "original": "Blade Runner 2049",
+  "year": 2017,
+  "poster": "/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+  "votes": 16050,
+  "genres": [
+   878,
+   18
+  ]
+ },
+ "movie-bullet-train": {
+  "tmdbId": 718930,
+  "kind": "movie",
+  "title": "Bullet Train",
+  "original": "Bullet Train",
+  "year": 2022,
+  "poster": "/kM6iLHkDfyoMsTIm567mUFzFO9e.jpg",
+  "votes": 8181,
+  "genres": [
+   28,
+   35,
+   53
+  ]
+ },
+ "movie-casino-royale": {
+  "tmdbId": 36557,
+  "kind": "movie",
+  "title": "Casino Royale",
+  "original": "Casino Royale",
+  "year": 2006,
+  "poster": "/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
+  "votes": 12246,
+  "genres": [
+   12,
+   28,
+   53
+  ]
+ },
+ "movie-contact": {
+  "tmdbId": 686,
+  "kind": "movie",
+  "title": "Contact",
+  "original": "Contact",
+  "year": 1997,
+  "poster": "/rFcs0iDNWD5mAq9a6YrKn5qdsFa.jpg",
+  "votes": 5302,
+  "genres": [
+   18,
+   878,
+   9648
+  ]
+ },
+ "movie-deadpool-wolverine": {
+  "tmdbId": 533535,
+  "kind": "movie",
+  "title": "Deadpool y Lobezno",
+  "original": "Deadpool & Wolverine",
+  "year": 2024,
+  "poster": "/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+  "votes": 9867,
+  "genres": [
+   28,
+   35,
+   878
+  ]
+ },
+ "movie-die-hard": {
+  "tmdbId": 562,
+  "kind": "movie",
+  "title": "Jungla de cristal",
+  "original": "Die Hard",
+  "year": 1988,
+  "poster": "/m54tK4wKjc1w2dp7QInG0munGao.jpg",
+  "votes": 12887,
+  "genres": [
+   28,
+   53
+  ]
+ },
+ "movie-doctor-strange-in-the-multiverse-of-madness": {
+  "tmdbId": 453395,
+  "kind": "movie",
+  "title": "Doctor Strange en el multiverso de la locura",
+  "original": "Doctor Strange in the Multiverse of Madness",
+  "year": 2022,
+  "poster": "/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
+  "votes": 11151,
+  "genres": [
+   14,
+   28,
+   12
+  ]
+ },
+ "movie-don-t-look-up": {
+  "tmdbId": 646380,
+  "kind": "movie",
+  "title": "No mires arriba",
+  "original": "Don't Look Up",
+  "year": 2021,
+  "poster": "/78olDfo1tQmI1OtyBPovWb98wLD.jpg",
+  "votes": 9912,
+  "genres": [
+   35,
+   878,
+   18
+  ]
+ },
+ "movie-dune": {
+  "tmdbId": 438631,
+  "kind": "movie",
+  "title": "Dune",
+  "original": "Dune",
+  "year": 2021,
+  "poster": "/v1UxeZJhhAK3Ual6IU4qU73t1hA.jpg",
+  "votes": 15997,
+  "genres": [
+   878,
+   12
+  ]
+ },
+ "movie-dune-part-two": {
+  "tmdbId": 693134,
+  "kind": "movie",
+  "title": "Dune: Parte dos",
+  "original": "Dune: Part Two",
+  "year": 2024,
+  "poster": "/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+  "votes": 9011,
+  "genres": [
+   878,
+   12
+  ]
+ },
+ "movie-dungeons-dragons-honor-among-thieves": {
+  "tmdbId": 493529,
+  "kind": "movie",
+  "title": "Dungeons & Dragons: Honor entre ladrones",
+  "original": "Dungeons & Dragons: Honor Among Thieves",
+  "year": 2023,
+  "poster": "/6dW83oZuprt6mw1rIJrTJjuSVX3.jpg",
+  "votes": 5090,
+  "genres": [
+   12,
+   14,
+   35
+  ]
+ },
+ "movie-dunkirk": {
+  "tmdbId": 374720,
+  "kind": "movie",
+  "title": "Dunkerque",
+  "original": "Dunkirk",
+  "year": 2017,
+  "poster": "/to21T9dJtVoHDQbhHTpcugx7cgf.jpg",
+  "votes": 18257,
+  "genres": [
+   10752,
+   28,
+   36
+  ]
+ },
+ "movie-everything-everywhere-all-at-once": {
+  "tmdbId": 545611,
+  "kind": "movie",
+  "title": "Todo a la vez en todas partes",
+  "original": "Everything Everywhere All at Once",
+  "year": 2022,
+  "poster": "/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
+  "votes": 8681,
+  "genres": [
+   28,
+   12,
+   878
+  ]
+ },
+ "movie-ford-v-ferrari": {
+  "tmdbId": 359724,
+  "kind": "movie",
+  "title": "Le Mans '66",
+  "original": "Ford v Ferrari",
+  "year": 2019,
+  "poster": "/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg",
+  "votes": 9505,
+  "genres": [
+   18,
+   36,
+   28
+  ]
+ },
+ "movie-free-guy": {
+  "tmdbId": 550988,
+  "kind": "movie",
+  "title": "Free Guy",
+  "original": "Free Guy",
+  "year": 2021,
+  "poster": "/suaooqn1Mnv60V19MoGxneMupJs.jpg",
+  "votes": 10393,
+  "genres": [
+   35,
+   12,
+   878
+  ]
+ },
+ "movie-green-book": {
+  "tmdbId": 490132,
+  "kind": "movie",
+  "title": "Green Book",
+  "original": "Green Book",
+  "year": 2018,
+  "poster": "/phwmfaEe43uY2OAI2oeSZNlD4A9.jpg",
+  "votes": 13511,
+  "genres": [
+   18,
+   35,
+   36
+  ]
+ },
+ "movie-guardians-of-the-galaxy-vol-3": {
+  "tmdbId": 447365,
+  "kind": "movie",
+  "title": "Guardianes de la Galaxia: Volumen 3",
+  "original": "Guardians of the Galaxy Vol. 3",
+  "year": 2023,
+  "poster": "/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+  "votes": 9134,
+  "genres": [
+   878,
+   12,
+   28
+  ]
+ },
+ "movie-hoppers": {
+  "tmdbId": 1327819,
+  "kind": "movie",
+  "title": "Hoppers",
+  "original": "Hoppers",
+  "year": 2026,
+  "poster": "/hJRMZZv1WUKWMYQ73VB8hdFq8tq.jpg",
+  "votes": 2540,
+  "genres": [
+   16,
+   12,
+   35,
+   10751,
+   878
+  ]
+ },
+ "movie-hulk-2003": {
+  "tmdbId": 1927,
+  "kind": "movie",
+  "title": "Hulk",
+  "original": "Hulk",
+  "year": 2003,
+  "poster": "/iXZq1LvlsmR9PMryzcGmOt9vuZe.jpg",
+  "votes": 6572,
+  "genres": [
+   878,
+   28,
+   18
+  ]
+ },
+ "movie-indiana-jones-and-the-last-crusade": {
+  "tmdbId": 89,
+  "kind": "movie",
+  "title": "Indiana Jones y la última cruzada",
+  "original": "Indiana Jones and the Last Crusade",
+  "year": 1989,
+  "poster": "/5h45gK147AAJpLLC7Cicr597urz.jpg",
+  "votes": 11554,
+  "genres": [
+   12,
+   28
+  ]
+ },
+ "movie-indiana-jones-and-the-temple-of-doom": {
+  "tmdbId": 87,
+  "kind": "movie",
+  "title": "Indiana Jones y el templo maldito",
+  "original": "Indiana Jones and the Temple of Doom",
+  "year": 1984,
+  "poster": "/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+  "votes": 10539,
+  "genres": [
+   12,
+   28
+  ]
+ },
+ "movie-interstellar": {
+  "tmdbId": 157336,
+  "kind": "movie",
+  "title": "Interstellar",
+  "original": "Interstellar",
+  "year": 2014,
+  "poster": "/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg",
+  "votes": 41956,
+  "genres": [
+   12,
+   18,
+   878
+  ]
+ },
+ "movie-john-wick": {
+  "tmdbId": 245891,
+  "kind": "movie",
+  "title": "John Wick",
+  "original": "John Wick",
+  "year": 2014,
+  "poster": "/3sKWhzWiL9xPMOhDO7l6R3y5sNL.jpg",
+  "votes": 21642,
+  "genres": [
+   28,
+   53
+  ]
+ },
+ "movie-juror-2": {
+  "tmdbId": 1106739,
+  "kind": "movie",
+  "title": "Jurado Nº 2",
+  "original": "Juror #2",
+  "year": 2024,
+  "poster": "/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+  "votes": 2733,
+  "genres": [
+   18,
+   53
+  ]
+ },
+ "movie-killers-of-the-flower-moon": {
+  "tmdbId": 466420,
+  "kind": "movie",
+  "title": "Los asesinos de la luna",
+  "original": "Killers of the Flower Moon",
+  "year": 2023,
+  "poster": "/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+  "votes": 4491,
+  "genres": [
+   80,
+   36,
+   18
+  ]
+ },
+ "movie-obsession-2026": {
+  "tmdbId": 1339713,
+  "kind": "movie",
+  "title": "Obsession",
+  "original": "Obsession",
+  "year": 2026,
+  "poster": "/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+  "votes": 6680,
+  "genres": [
+   27,
+   53
+  ]
+ },
+ "movie-one-battle-after-another": {
+  "tmdbId": 1054867,
+  "kind": "movie",
+  "title": "Una batalla tras otra",
+  "original": "One Battle After Another",
+  "year": 2025,
+  "poster": "/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+  "votes": 4555,
+  "genres": [
+   53,
+   80,
+   35
+  ]
+ },
+ "movie-oppenheimer": {
+  "tmdbId": 872585,
+  "kind": "movie",
+  "title": "Oppenheimer",
+  "original": "Oppenheimer",
+  "year": 2023,
+  "poster": "/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+  "votes": 12940,
+  "genres": [
+   18,
+   36,
+   10752
+  ]
+ },
+ "movie-power-rangers": {
+  "tmdbId": 305470,
+  "kind": "movie",
+  "title": "Power Rangers",
+  "original": "Power Rangers",
+  "year": 2017,
+  "poster": "/dgsnZW7zyChQfAzCtmLlPp5twpl.jpg",
+  "votes": 4779,
+  "genres": [
+   28,
+   12,
+   878
+  ]
+ },
+ "movie-project-hail-mary": {
+  "tmdbId": 687163,
+  "kind": "movie",
+  "title": "Proyecto Salvación",
+  "original": "Project Hail Mary",
+  "year": 2026,
+  "poster": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+  "votes": 8948,
+  "genres": [
+   878,
+   12
+  ]
+ },
+ "movie-raiders-of-the-lost-ark": {
+  "tmdbId": 85,
+  "kind": "movie",
+  "title": "En busca del arca perdida",
+  "original": "Raiders of the Lost Ark",
+  "year": 1981,
+  "poster": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+  "votes": 14241,
+  "genres": [
+   12,
+   28
+  ]
+ },
+ "movie-rear-window": {
+  "tmdbId": 567,
+  "kind": "movie",
+  "title": "La ventana indiscreta",
+  "original": "Rear Window",
+  "year": 1954,
+  "poster": "/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+  "votes": 7508,
+  "genres": [
+   53,
+   9648,
+   18
+  ]
+ },
+ "movie-road-house-2024": {
+  "tmdbId": 359410,
+  "kind": "movie",
+  "title": "Road House (De profesión: duro)",
+  "original": "Road House",
+  "year": 2024,
+  "poster": "/n5af068Xoa2feazpY5MP3xcW5Mj.jpg",
+  "votes": 3351,
+  "genres": [
+   28,
+   53,
+   18
+  ]
+ },
+ "movie-rocky": {
+  "tmdbId": 1366,
+  "kind": "movie",
+  "title": "Rocky",
+  "original": "Rocky",
+  "year": 1976,
+  "poster": "/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+  "votes": 9115,
+  "genres": [
+   18
+  ]
+ },
+ "movie-rocky-iv": {
+  "tmdbId": 1374,
+  "kind": "movie",
+  "title": "Rocky IV",
+  "original": "Rocky IV",
+  "year": 1985,
+  "poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+  "votes": 5068,
+  "genres": [
+   18
+  ]
+ },
+ "movie-seven-samurai": {
+  "tmdbId": 346,
+  "kind": "movie",
+  "title": "Los siete samuráis",
+  "original": "七人の侍",
+  "year": 1954,
+  "poster": "/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
+  "votes": 4469,
+  "genres": [
+   28,
+   18
+  ]
+ },
+ "movie-sinners": {
+  "tmdbId": 1233413,
+  "kind": "movie",
+  "title": "Los pecadores",
+  "original": "Sinners",
+  "year": 2025,
+  "poster": "/zdClwqpYQXBSCGGDMdtvsuggwec.jpg",
+  "votes": 5584,
+  "genres": [
+   27,
+   28,
+   53
+  ]
+ },
+ "movie-speak-no-evil": {
+  "tmdbId": 1114513,
+  "kind": "movie",
+  "title": "No hables con extraños",
+  "original": "Speak No Evil",
+  "year": 2024,
+  "poster": "/4rFJZjGPZjeOg8LpdeXpWB7uzJ1.jpg",
+  "votes": 2438,
+  "genres": [
+   27,
+   53
+  ]
+ },
+ "movie-spider-man-across-the-spider-verse": {
+  "tmdbId": 569094,
+  "kind": "movie",
+  "title": "Spider-Man: Cruzando el Multiverso",
+  "original": "Spider-Man: Across the Spider-Verse",
+  "year": 2023,
+  "poster": "/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+  "votes": 9570,
+  "genres": [
+   16,
+   28,
+   12,
+   878
+  ]
+ },
+ "movie-spider-man-no-way-home": {
+  "tmdbId": 634649,
+  "kind": "movie",
+  "title": "Spider-Man: No Way Home",
+  "original": "Spider-Man: No Way Home",
+  "year": 2021,
+  "poster": "/wngeV2SQk9UllOqZLaBbq16wpy5.jpg",
+  "votes": 23589,
+  "genres": [
+   28,
+   12,
+   878
+  ]
+ },
+ "movie-tetris": {
+  "tmdbId": 726759,
+  "kind": "movie",
+  "title": "Tetris",
+  "original": "Tetris",
+  "year": 2023,
+  "poster": "/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
+  "votes": 2145,
+  "genres": [
+   53,
+   36,
+   18
+  ]
+ },
+ "movie-the-gentlemen": {
+  "tmdbId": 522627,
+  "kind": "movie",
+  "title": "The Gentlemen: Los señores de la mafia",
+  "original": "The Gentlemen",
+  "year": 2020,
+  "poster": "/nC27YUVYDF2J1GEB9IIqmh3jIvc.jpg",
+  "votes": 7065,
+  "genres": [
+   35,
+   80
+  ]
+ },
+ "movie-the-irishman": {
+  "tmdbId": 398978,
+  "kind": "movie",
+  "title": "El irlandés",
+  "original": "The Irishman",
+  "year": 2019,
+  "poster": "/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",
+  "votes": 7873,
+  "genres": [
+   80,
+   18,
+   36
+  ]
+ },
+ "movie-the-man-from-earth": {
+  "tmdbId": 13363,
+  "kind": "movie",
+  "title": "El hombre de la tierra",
+  "original": "The Man from Earth",
+  "year": 2007,
+  "poster": "/p6RXMbWN7uAnV0DNnRbHFDAZwg2.jpg",
+  "votes": 3129,
+  "genres": [
+   878,
+   18
+  ]
+ },
+ "movie-the-mule": {
+  "tmdbId": 504172,
+  "kind": "movie",
+  "title": "Mula",
+  "original": "The Mule",
+  "year": 2018,
+  "poster": "/hNcHTQnerOX0uYl9oFMWQ7W7gvd.jpg",
+  "votes": 5547,
+  "genres": [
+   80,
+   18
+  ]
+ },
+ "movie-the-odyssey-2026": {
+  "tmdbId": 1368337,
+  "kind": "movie",
+  "title": "La Odisea",
+  "original": "The Odyssey",
+  "year": 2026,
+  "poster": "/wLSZhzbKI2lwYkS1uRjHyfi8CPQ.jpg",
+  "votes": 5152,
+  "genres": [
+   12,
+   28,
+   14
+  ]
+ },
+ "movie-the-super-mario-bros-movie": {
+  "tmdbId": 502356,
+  "kind": "movie",
+  "title": "Super Mario Bros: La película",
+  "original": "The Super Mario Bros. Movie",
+  "year": 2023,
+  "poster": "/4CDkQMpNDTtVKwS0BBZw5RIXDtY.jpg",
+  "votes": 11341,
+  "genres": [
+   10751,
+   35,
+   12,
+   14,
+   16
+  ]
+ },
+ "movie-the-untouchables": {
+  "tmdbId": 117,
+  "kind": "movie",
+  "title": "Los intocables de Eliot Ness",
+  "original": "The Untouchables",
+  "year": 1987,
+  "poster": "/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg",
+  "votes": 6446,
+  "genres": [
+   80,
+   36,
+   53
+  ]
+ },
+ "movie-the-witcher-sirens-of-the-deep": {
+  "tmdbId": 1203329,
+  "kind": "movie",
+  "title": "The Witcher: Sirenas de las profundidades",
+  "original": "The Witcher: Sirens of the Deep",
+  "year": 2025,
+  "poster": "/eSwQudxKlJnI4tjDKi47aTAvTmj.jpg",
+  "votes": 307,
+  "genres": [
+   16,
+   14,
+   28
+  ]
+ },
+ "movie-thor-love-and-thunder": {
+  "tmdbId": 616037,
+  "kind": "movie",
+  "title": "Thor: Love and Thunder",
+  "original": "Thor: Love and Thunder",
+  "year": 2022,
+  "poster": "/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg",
+  "votes": 9166,
+  "genres": [
+   14,
+   28,
+   35
+  ]
+ },
+ "movie-training-day": {
+  "tmdbId": 2034,
+  "kind": "movie",
+  "title": "Training Day (Día de entrenamiento)",
+  "original": "Training Day",
+  "year": 2001,
+  "poster": "/nagh5PjkfBnDf5SKXyHupWu4yod.jpg",
+  "votes": 7030,
+  "genres": [
+   28,
+   80,
+   18
+  ]
+ },
+ "movie-uncut-gems": {
+  "tmdbId": 473033,
+  "kind": "movie",
+  "title": "Diamantes en bruto",
+  "original": "Uncut Gems",
+  "year": 2019,
+  "poster": "/c3PF6aC1TflMoxckXikRmeV8MLq.jpg",
+  "votes": 5714,
+  "genres": [
+   18,
+   53,
+   80
+  ]
+ },
+ "movie-venom": {
+  "tmdbId": 335983,
+  "kind": "movie",
+  "title": "Venom",
+  "original": "Venom",
+  "year": 2018,
+  "poster": "/jMBTJQiHAyGlZR05J2sq5coA6ew.jpg",
+  "votes": 17822,
+  "genres": [
+   878,
+   28
+  ]
+ },
+ "series-3-body-problem": {
+  "tmdbId": 108545,
+  "kind": "tv",
+  "title": "El problema de los 3 cuerpos",
+  "original": "3 Body Problem",
+  "year": 2024,
+  "poster": "/6Dc9mMl083cVpNknWzALCw7JYPH.jpg",
+  "votes": 1759,
+  "genres": [
+   10765,
+   9648,
+   18
+  ]
+ },
+ "series-a-knight-of-the-seven-kingdoms": {
+  "tmdbId": 224372,
+  "kind": "tv",
+  "title": "El caballero de los Siete Reinos",
+  "original": "A Knight of the Seven Kingdoms",
+  "year": 2026,
+  "poster": "/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
+  "votes": 1288,
+  "genres": [
+   18,
+   10765,
+   10759
+  ]
+ },
+ "series-adolescence": {
+  "tmdbId": 249042,
+  "kind": "tv",
+  "title": "Adolescencia",
+  "original": "Adolescence",
+  "year": 2025,
+  "poster": "/cZdsqlIqhRbYNo8ttxb2ThC09Wa.jpg",
+  "votes": 1890,
+  "genres": [
+   18,
+   80
+  ]
+ },
+ "series-ahsoka": {
+  "tmdbId": 114461,
+  "kind": "tv",
+  "title": "Ahsoka",
+  "original": "Ahsoka",
+  "year": 2023,
+  "poster": "/yTvWa3syCJSyDrVelsBThUxrpSN.jpg",
+  "votes": 1363,
+  "genres": [
+   10765,
+   10759,
+   18,
+   10768
+  ]
+ },
+ "series-alice-in-borderland": {
+  "tmdbId": 110316,
+  "kind": "tv",
+  "title": "Alice in Borderland",
+  "original": "今際の国のアリス",
+  "year": 2020,
+  "poster": "/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+  "votes": 2897,
+  "genres": [
+   9648,
+   18,
+   10759
+  ]
+ },
+ "series-arcane": {
+  "tmdbId": 94605,
+  "kind": "tv",
+  "title": "Arcane",
+  "original": "Arcane",
+  "year": 2021,
+  "poster": "/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
+  "votes": 6336,
+  "genres": [
+   16,
+   10759,
+   10765
+  ]
+ },
+ "series-attack-on-titan": {
+  "tmdbId": 1429,
+  "kind": "tv",
+  "title": "Ataque a los Titanes",
+  "original": "進撃の巨人",
+  "year": 2013,
+  "poster": "/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+  "votes": 7836,
+  "genres": [
+   16,
+   10765,
+   10759
+  ]
+ },
+ "series-bad-guy-2022": {
+  "tmdbId": 158050,
+  "kind": "tv",
+  "title": "El chico malo",
+  "original": "The Bad Guy",
+  "year": 2022,
+  "poster": "/5Fw4SQhCRZfmVR8QKVtCvRKSQqK.jpg",
+  "votes": 72,
+  "genres": [
+   80,
+   18,
+   35
+  ]
+ },
+ "series-better-call-saul": {
+  "tmdbId": 60059,
+  "kind": "tv",
+  "title": "Better Call Saul",
+  "original": "Better Call Saul",
+  "year": 2015,
+  "poster": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+  "votes": 7108,
+  "genres": [
+   80,
+   18
+  ]
+ },
+ "series-black-mirror": {
+  "tmdbId": 42009,
+  "kind": "tv",
+  "title": "Black Mirror",
+  "original": "Black Mirror",
+  "year": 2011,
+  "poster": "/pY80haDeUJLHjWLW7edqWaQ2UfW.jpg",
+  "votes": 6703,
+  "genres": [
+   10765,
+   18,
+   9648
+  ]
+ },
+ "series-blue-eye-samurai": {
+  "tmdbId": 225180,
+  "kind": "tv",
+  "title": "Samurái de ojos azules",
+  "original": "BLUE EYE SAMURAI",
+  "year": 2023,
+  "poster": "/e6SS2QGSXOb4ifmGvTVt27Pt0bd.jpg",
+  "votes": 895,
+  "genres": [
+   10759,
+   16
+  ]
+ },
+ "series-cyberpunk-edgerunners": {
+  "tmdbId": 105248,
+  "kind": "tv",
+  "title": "Cyberpunk: Edgerunners",
+  "original": "Cyberpunk: Edgerunners",
+  "year": 2022,
+  "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+  "votes": 2162,
+  "genres": [
+   16,
+   10759,
+   10765,
+   80
+  ]
+ },
+ "series-dark": {
+  "tmdbId": 70523,
+  "kind": "tv",
+  "title": "Dark",
+  "original": "Dark",
+  "year": 2017,
+  "poster": "/gw8ZlIXEg6SIx3FgMEQqmBkPYKV.jpg",
+  "votes": 8012,
+  "genres": [
+   80,
+   18,
+   10765,
+   9648
+  ]
+ },
+ "series-dr-stone": {
+  "tmdbId": 86031,
+  "kind": "tv",
+  "title": "Dr. Stone",
+  "original": "Dr.STONE",
+  "year": 2019,
+  "poster": "/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg",
+  "votes": 1819,
+  "genres": [
+   16,
+   10759,
+   35,
+   10765
+  ]
+ },
+ "series-fallout": {
+  "tmdbId": 106379,
+  "kind": "tv",
+  "title": "Fallout",
+  "original": "Fallout",
+  "year": 2024,
+  "poster": "/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+  "votes": 3264,
+  "genres": [
+   10759,
+   10765,
+   18
+  ]
+ },
+ "series-gen-v": {
+  "tmdbId": 205715,
+  "kind": "tv",
+  "title": "Generación V",
+  "original": "Gen V",
+  "year": 2023,
+  "poster": "/fLJzwWk28vRrNQIvIXUSU5YBdT5.jpg",
+  "votes": 1683,
+  "genres": [
+   10759,
+   18,
+   10765
+  ]
+ },
+ "series-gomorrah": {
+  "tmdbId": 61068,
+  "kind": "tv",
+  "title": "Gomorra",
+  "original": "Gomorra - La serie",
+  "year": 2014,
+  "poster": "/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg",
+  "votes": 617,
+  "genres": [
+   80,
+   18
+  ]
+ },
+ "series-guillermo-del-toro-s-cabinet-of-curiosities": {
+  "tmdbId": 83659,
+  "kind": "tv",
+  "title": "El gabinete de curiosidades de Guillermo del Toro",
+  "original": "Guillermo del Toro's Cabinet of Curiosities",
+  "year": 2022,
+  "poster": "/xfH651gjh3PbpAznDpXjTqyfyjn.jpg",
+  "votes": 1105,
+  "genres": [
+   18,
+   9648,
+   10765
+  ]
+ },
+ "series-house-of-the-dragon": {
+  "tmdbId": 94997,
+  "kind": "tv",
+  "title": "La casa del dragón",
+  "original": "House of the Dragon",
+  "year": 2022,
+  "poster": "/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+  "votes": 7337,
+  "genres": [
+   10765,
+   18,
+   10759
+  ]
+ },
+ "series-hunter-x-hunter": {
+  "tmdbId": 46298,
+  "kind": "tv",
+  "title": "Hunter × Hunter",
+  "original": "HUNTER×HUNTER",
+  "year": 2011,
+  "poster": "/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+  "votes": 2276,
+  "genres": [
+   16,
+   10759,
+   10765
+  ]
+ },
+ "series-invincible": {
+  "tmdbId": 95557,
+  "kind": "tv",
+  "title": "INVENCIBLE",
+  "original": "INVINCIBLE",
+  "year": 2021,
+  "poster": "/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+  "votes": 6173,
+  "genres": [
+   16,
+   18,
+   10765,
+   10759
+  ]
+ },
+ "series-loki": {
+  "tmdbId": 84958,
+  "kind": "tv",
+  "title": "Loki",
+  "original": "Loki",
+  "year": 2021,
+  "poster": "/mLNTzVTF6lREjMWYaCVrhdvnF3C.jpg",
+  "votes": 12920,
+  "genres": [
+   18,
+   10765
+  ]
+ },
+ "series-love-death-robots": {
+  "tmdbId": 86831,
+  "kind": "tv",
+  "title": "Love, Death & Robots",
+  "original": "Love, Death & Robots",
+  "year": 2019,
+  "poster": "/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+  "votes": 4260,
+  "genres": [
+   16,
+   10765
+  ]
+ },
+ "series-naruto": {
+  "tmdbId": 46260,
+  "kind": "tv",
+  "title": "Naruto",
+  "original": "ナルト",
+  "year": 2002,
+  "poster": "/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+  "votes": 6201,
+  "genres": [
+   16,
+   10759,
+   10765
+  ]
+ },
+ "series-obi-wan-kenobi": {
+  "tmdbId": 92830,
+  "kind": "tv",
+  "title": "Obi-Wan Kenobi",
+  "original": "Obi-Wan Kenobi",
+  "year": 2022,
+  "poster": "/mVHpVzGwhB9NBpyS5j6qJsME7lo.jpg",
+  "votes": 2423,
+  "genres": [
+   10765,
+   10759,
+   18,
+   10768
+  ]
+ },
+ "series-peaky-blinders": {
+  "tmdbId": 60574,
+  "kind": "tv",
+  "title": "Peaky Blinders",
+  "original": "Peaky Blinders",
+  "year": 2013,
+  "poster": "/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+  "votes": 11552,
+  "genres": [
+   18,
+   80
+  ]
+ },
+ "series-pluribus": {
+  "tmdbId": 225171,
+  "kind": "tv",
+  "title": "Pluribus",
+  "original": "Pluribus",
+  "year": 2025,
+  "poster": "/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+  "votes": 1223,
+  "genres": [
+   18,
+   10765
+  ]
+ },
+ "series-rafa-nadal-documental-de-netflix": {
+  "tmdbId": 279884,
+  "kind": "tv",
+  "title": "Rafa",
+  "original": "Rafa",
+  "year": 2026,
+  "poster": "/aYC4t2FwIK3kouPMc7d9CAL49Mp.jpg",
+  "votes": 49,
+  "genres": [
+   99
+  ]
+ },
+ "series-rick-and-morty": {
+  "tmdbId": 60625,
+  "kind": "tv",
+  "title": "Rick y Morty",
+  "original": "Rick and Morty",
+  "year": 2013,
+  "poster": "/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
+  "votes": 11609,
+  "genres": [
+   16,
+   35,
+   10765,
+   10759
+  ]
+ },
+ "series-secret-level": {
+  "tmdbId": 261579,
+  "kind": "tv",
+  "title": "Secret Level",
+  "original": "Secret Level",
+  "year": 2024,
+  "poster": "/bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg",
+  "votes": 618,
+  "genres": [
+   16,
+   10765,
+   10759
+  ]
+ },
+ "series-sh-gun": {
+  "tmdbId": 126308,
+  "kind": "tv",
+  "title": "Shōgun",
+  "original": "Shōgun",
+  "year": 2024,
+  "poster": "/uIoDvVOQaKjSfz2oihkVS8M7l1v.jpg",
+  "votes": 1992,
+  "genres": [
+   18,
+   10768
+  ]
+ },
+ "series-spider-noir": {
+  "tmdbId": 220102,
+  "kind": "tv",
+  "title": "Spider-Noir",
+  "original": "Spider-Noir",
+  "year": 2026,
+  "poster": "/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+  "votes": 941,
+  "genres": [
+   18,
+   9648,
+   80
+  ]
+ },
+ "series-squid-game": {
+  "tmdbId": 93405,
+  "kind": "tv",
+  "title": "El juego del calamar",
+  "original": "오징어 게임",
+  "year": 2021,
+  "poster": "/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+  "votes": 17960,
+  "genres": [
+   10759,
+   9648,
+   18
+  ]
+ },
+ "series-suburra-blood-on-rome": {
+  "tmdbId": 73671,
+  "kind": "tv",
+  "title": "Suburra: La serie",
+  "original": "Suburra: La serie",
+  "year": 2017,
+  "poster": "/flNoLFLvupAVzi7Y6HlxvnI7Z14.jpg",
+  "votes": 264,
+  "genres": [
+   80,
+   18
+  ]
+ },
+ "series-the-book-of-boba-fett": {
+  "tmdbId": 115036,
+  "kind": "tv",
+  "title": "El libro de Boba Fett",
+  "original": "The Book of Boba Fett",
+  "year": 2021,
+  "poster": "/4bffB2YV4UxNfEifp4HxdhfJulK.jpg",
+  "votes": 3161,
+  "genres": [
+   10759,
+   10765
+  ]
+ },
+ "series-the-boys": {
+  "tmdbId": 76479,
+  "kind": "tv",
+  "title": "The Boys",
+  "original": "The Boys",
+  "year": 2019,
+  "poster": "/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
+  "votes": 13690,
+  "genres": [
+   10765,
+   10759
+  ]
+ },
+ "series-the-greatest-serie-de-ali": {
+  "tmdbId": 258989,
+  "kind": "tv",
+  "title": "El más grande",
+  "original": "The Greatest",
+  "year": 2026,
+  "poster": "/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+  "votes": 22,
+  "genres": [
+   18
+  ]
+ },
+ "series-the-last-of-us": {
+  "tmdbId": 100088,
+  "kind": "tv",
+  "title": "The Last of Us",
+  "original": "The Last of Us",
+  "year": 2023,
+  "poster": "/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+  "votes": 7528,
+  "genres": [
+   18
+  ]
+ },
+ "series-the-mandalorian": {
+  "tmdbId": 82856,
+  "kind": "tv",
+  "title": "The Mandalorian",
+  "original": "The Mandalorian",
+  "year": 2019,
+  "poster": "/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+  "votes": 11407,
+  "genres": [
+   10765,
+   10759
+  ]
+ },
+ "series-the-wheel-of-time": {
+  "tmdbId": 71914,
+  "kind": "tv",
+  "title": "La rueda del tiempo",
+  "original": "The Wheel of Time",
+  "year": 2021,
+  "poster": "/2KsxHDAiBABc2v99DGmXiVy4RoG.jpg",
+  "votes": 2545,
+  "genres": [
+   10765,
+   18
+  ]
+ },
+ "series-the-witcher": {
+  "tmdbId": 71912,
+  "kind": "tv",
+  "title": "The Witcher",
+  "original": "The Witcher",
+  "year": 2019,
+  "poster": "/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+  "votes": 7029,
+  "genres": [
+   10765,
+   10759
+  ]
+ },
+ "series-the-witcher-blood-origin": {
+  "tmdbId": 106541,
+  "kind": "tv",
+  "title": "The Witcher: El origen de la sangre",
+  "original": "The Witcher: Blood Origin",
+  "year": 2022,
+  "poster": "/3BRkE6xK6uO6ov7EvYZDgkg5Ub3.jpg",
+  "votes": 840,
+  "genres": [
+   10765,
+   10759,
+   18
+  ]
+ },
+ "series-wandavision": {
+  "tmdbId": 85271,
+  "kind": "tv",
+  "title": "Bruja Escarlata y Visión",
+  "original": "WandaVision",
+  "year": 2021,
+  "poster": "/j2VeSZ7tncd2p8z1CeMnxbxK76b.jpg",
+  "votes": 13062,
+  "genres": [
+   10765,
+   9648,
+   18
+  ]
+ },
+ "movie-parasite-2019": {
+  "tmdbId": 496243,
+  "kind": "movie",
+  "title": "Parásitos",
+  "original": "기생충",
+  "year": 2019,
+  "poster": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+  "votes": 21740,
+  "genres": [
+   35,
+   53,
+   18
+  ]
+ }
+}

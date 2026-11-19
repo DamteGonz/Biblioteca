@@ -227,7 +227,7 @@ MAP = {
     (M, "green book"): {"t": "Green Book"},
     (M, "blade runner"): {"t": "Blade Runner 2049"},
     (M, "diamantes en bruto"): {"t": "Uncut Gems"},
-    (M, "parasite"): {"t": "Parasite"},
+    (M, "parasite"): {"t": "Parasite (2019)"},
     (M, "dia de entreno"): {"t": "Training Day"},
     (M, "project hail marry"): {"t": "Project Hail Mary"},
     (M, "jumpers"): {"t": "Hoppers"},

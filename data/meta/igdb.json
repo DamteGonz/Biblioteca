@@ -1,0 +1,2854 @@
+{
+ "game-007-first-light": {
+  "igdbId": 141114,
+  "title": "007 First Light",
+  "year": 2026,
+  "cover": "coaoiz",
+  "votes": 211,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-a-way-out": {
+  "igdbId": 36897,
+  "title": "A Way Out",
+  "year": 2018,
+  "cover": "co1vca",
+  "votes": 693,
+  "genres": [
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-alan-wake-2": {
+  "igdbId": 185246,
+  "title": "Alan Wake II",
+  "year": 2023,
+  "cover": "co6jar",
+  "votes": 347,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-another-door": {
+  "igdbId": 284403,
+  "title": "Another Door",
+  "year": 2027,
+  "cover": "coc7d8",
+  "votes": 0,
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-astral-ascent": {
+  "igdbId": 180876,
+  "title": "Astral Ascent",
+  "year": 2023,
+  "cover": "cod20z",
+  "votes": 13,
+  "genres": [
+   "Platform",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "PS5",
+   "Mac",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-balatro": {
+  "igdbId": 251833,
+  "title": "Balatro",
+  "year": 2024,
+  "cover": "co9f4g",
+  "votes": 419,
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-baldur-s-gate-3": {
+  "igdbId": 119171,
+  "title": "Baldur's Gate III",
+  "year": 2023,
+  "cover": "co670h",
+  "votes": 1680,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Stadia",
+   "Series X|S",
+   "Linux",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-beneath-oresa": {
+  "igdbId": 182191,
+  "title": "Beneath Oresa",
+  "year": 2023,
+  "cover": "co8ts5",
+  "votes": 0,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-black-myth-wukong": {
+  "igdbId": 136879,
+  "title": "Black Myth: Wukong",
+  "year": 2024,
+  "cover": "co8h3y",
+  "votes": 258,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-blasphemous-2": {
+  "igdbId": 165390,
+  "title": "Blasphemous II",
+  "year": 2023,
+  "cover": "co6ej3",
+  "votes": 104,
+  "genres": [
+   "Platform",
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-bloodborne": {
+  "igdbId": 7334,
+  "title": "Bloodborne",
+  "year": 2015,
+  "cover": "cob99l",
+  "votes": 1915,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-blue-prince": {
+  "igdbId": 149657,
+  "title": "Blue Prince",
+  "year": 2025,
+  "cover": "co9mzd",
+  "votes": 136,
+  "genres": [
+   "Puzzle",
+   "Strategy",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-buckshot-roulette": {
+  "igdbId": 281275,
+  "title": "Buckshot Roulette",
+  "year": 2023,
+  "cover": "co85h5",
+  "votes": 161,
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Linux",
+   "PC",
+   "PS5",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-call-of-duty-modern-warfare-4": {
+  "igdbId": 403310,
+  "title": "Call of Duty: Modern Warfare 4",
+  "year": 2026,
+  "cover": "coc4mu",
+  "votes": 45,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-castlevania": {
+  "igdbId": 1130,
+  "title": "Castlevania",
+  "year": 1999,
+  "cover": "co5geb",
+  "votes": 40,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "N64"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-chants-of-sennaar": {
+  "igdbId": 198499,
+  "title": "Chants of Sennaar",
+  "year": 2023,
+  "cover": "co9mjo",
+  "votes": 112,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Android",
+   "PC",
+   "iOS",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-clair-obscur-expedition-33": {
+  "igdbId": 305152,
+  "title": "Clair Obscur: Expedition 33",
+  "year": 2025,
+  "cover": "co9gam",
+  "votes": 1011,
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-cocoon": {
+  "igdbId": 204627,
+  "title": "Cocoon",
+  "year": 2023,
+  "cover": "co4v2z",
+  "votes": 163,
+  "genres": [
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-cult-of-the-lamb": {
+  "igdbId": 165351,
+  "title": "Cult of the Lamb",
+  "year": 2022,
+  "cover": "cobbwj",
+  "votes": 259,
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Strategy",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-cyberpunk-2077": {
+  "igdbId": 1877,
+  "title": "Cyberpunk 2077",
+  "year": 2020,
+  "cover": "coaih8",
+  "votes": 1693,
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Stadia",
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-cyberpunk-2077-phantom-liberty": {
+  "igdbId": 215769,
+  "title": "Cyberpunk 2077: Phantom Liberty",
+  "year": 2023,
+  "cover": "co7566",
+  "votes": 257,
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": "Cyberpunk 2077",
+  "exacto": true
+ },
+ "game-dark-souls-iii": {
+  "igdbId": 11133,
+  "title": "Dark Souls III",
+  "year": 2016,
+  "cover": "cob9ed",
+  "votes": 2019,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-dark-souls-remastered": {
+  "igdbId": 81085,
+  "title": "Dark Souls: Remastered",
+  "year": 2018,
+  "cover": "cobazz",
+  "votes": 586,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE",
+   "Switch"
+  ],
+  "parent": "Dark Souls",
+  "exacto": true
+ },
+ "game-darkest-dungeon": {
+  "igdbId": 8965,
+  "title": "Darkest Dungeon",
+  "year": 2016,
+  "cover": "coaaw2",
+  "votes": 473,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PS4",
+   "Linux",
+   "PC",
+   "iOS",
+   "Mac",
+   "Vita",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-death-stranding": {
+  "igdbId": 19564,
+  "title": "Death Stranding",
+  "year": 2019,
+  "cover": "cocsvh",
+  "votes": 929,
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-death-s-door": {
+  "igdbId": 145099,
+  "title": "Death's Door",
+  "year": 2021,
+  "cover": "co45xc",
+  "votes": 203,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-delta-force": {
+  "igdbId": 262186,
+  "title": "Delta Force",
+  "year": 2024,
+  "cover": "coa98y",
+  "votes": 119,
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-dispatch": {
+  "igdbId": 325609,
+  "title": "Dispatch",
+  "year": 2025,
+  "cover": "cob5ql",
+  "votes": 314,
+  "genres": [
+   "Point-and-click",
+   "Strategy",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "browser",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-doom-2016": {
+  "igdbId": 7351,
+  "title": "Doom",
+  "year": 2016,
+  "cover": "co1nc7",
+  "votes": 1966,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-doom-3": {
+  "igdbId": 280,
+  "title": "Doom 3",
+  "year": 2004,
+  "cover": "co1v3n",
+  "votes": 451,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "XBOX",
+   "Linux",
+   "PC",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-doom-ii": {
+  "igdbId": 313164,
+  "title": "Doom II",
+  "year": 2024,
+  "cover": "co8noe",
+  "votes": 7,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": "Doom II: Hell on Earth",
+  "exacto": true
+ },
+ "game-dragon-s-dogma-2": {
+  "igdbId": 115060,
+  "title": "Dragon's Dogma II",
+  "year": 2024,
+  "cover": "co833w",
+  "votes": 93,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-dredge": {
+  "igdbId": 164867,
+  "title": "Dredge",
+  "year": 2023,
+  "cover": "co9kyk",
+  "votes": 250,
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-elden-ring": {
+  "igdbId": 119133,
+  "title": "Elden Ring",
+  "year": 2022,
+  "cover": "co4jni",
+  "votes": 2361,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-elden-ring-nightreign": {
+  "igdbId": 325591,
+  "title": "Elden Ring Nightreign",
+  "year": 2025,
+  "cover": "co95gk",
+  "votes": 111,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-elden-ring-shadow-of-the-erdtree": {
+  "igdbId": 240009,
+  "title": "Elden Ring: Shadow of the Erdtree",
+  "year": 2024,
+  "cover": "co7sly",
+  "votes": 133,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": "Elden Ring",
+  "exacto": true
+ },
+ "game-enshrouded": {
+  "igdbId": 248643,
+  "title": "Enshrouded",
+  "year": 2026,
+  "cover": "cod12a",
+  "votes": 77,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-final-fantasy-vii-remake": {
+  "igdbId": 11169,
+  "title": "Final Fantasy VII Remake",
+  "year": 2020,
+  "cover": "cobcwt",
+  "votes": 511,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": "Final Fantasy VII",
+  "exacto": true
+ },
+ "game-final-fantasy-xvi": {
+  "igdbId": 31551,
+  "title": "Final Fantasy XVI",
+  "year": 2023,
+  "cover": "cobd9i",
+  "votes": 229,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-football-manager-2024": {
+  "igdbId": 266382,
+  "title": "Football Manager 2024",
+  "year": 2023,
+  "cover": "co73z1",
+  "votes": 57,
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Strategy"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-gang-of-frogs": {
+  "igdbId": 369326,
+  "title": "Gang of Frogs",
+  "year": null,
+  "cover": "coaj23",
+  "votes": 0,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-ghost-of-tsushima": {
+  "igdbId": 75235,
+  "title": "Ghost of Tsushima",
+  "year": 2020,
+  "cover": "co2crj",
+  "votes": 1175,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-god-of-war-2018": {
+  "igdbId": 19560,
+  "title": "God of War",
+  "year": 2018,
+  "cover": "cobkt6",
+  "votes": 3665,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-god-of-war-ragnar-k-valhalla": null,
+ "game-gordian-quest": {
+  "igdbId": 125048,
+  "title": "Gordian Quest",
+  "year": 2022,
+  "cover": "co4opa",
+  "votes": 8,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PS4",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-hades": {
+  "igdbId": 113112,
+  "title": "Hades",
+  "year": 2020,
+  "cover": "cob9kr",
+  "votes": 1804,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-hades-ii": {
+  "igdbId": 228525,
+  "title": "Hades II",
+  "year": 2025,
+  "cover": "coaknx",
+  "votes": 183,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-half-life-2": {
+  "igdbId": 233,
+  "title": "Half-Life 2",
+  "year": 2004,
+  "cover": "co1nmw",
+  "votes": 3506,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "XBOX",
+   "PS3",
+   "Linux",
+   "Android",
+   "PC",
+   "Mac",
+   "X360"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-hearthstone": {
+  "igdbId": 1279,
+  "title": "Hearthstone",
+  "year": 2014,
+  "cover": "co1sh2",
+  "votes": 739,
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Android",
+   "PC",
+   "iOS",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-hogwarts-legacy": {
+  "igdbId": 136625,
+  "title": "Hogwarts Legacy",
+  "year": 2023,
+  "cover": "coaav6",
+  "votes": 714,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-hollow-knight": {
+  "igdbId": 14593,
+  "title": "Hollow Knight",
+  "year": 2017,
+  "cover": "cobfzp",
+  "votes": 2289,
+  "genres": [
+   "Platform",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Linux",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "WiiU",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-icarus": {
+  "igdbId": 134813,
+  "title": "Icarus",
+  "year": 2021,
+  "cover": "co5vsi",
+  "votes": 21,
+  "genres": [
+   "Simulator",
+   "Adventure"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-indiana-jones-and-the-great-circle": {
+  "igdbId": 142415,
+  "title": "Indiana Jones and the Great Circle",
+  "year": 2024,
+  "cover": "co7nbc",
+  "votes": 245,
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-indiana-jones-and-the-great-circle-the-order-of-giants": {
+  "igdbId": 321852,
+  "title": "Indiana Jones and the Great Circle: The Order of Giants",
+  "year": 2025,
+  "cover": "co9zmq",
+  "votes": 6,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": "Indiana Jones and the Great Circle",
+  "exacto": true
+ },
+ "game-inscryption": {
+  "igdbId": 139090,
+  "title": "Inscryption",
+  "year": 2021,
+  "cover": "co401c",
+  "votes": 402,
+  "genres": [
+   "Puzzle",
+   "Strategy",
+   "Adventure",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Linux",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-it-takes-two": {
+  "igdbId": 135243,
+  "title": "It Takes Two",
+  "year": 2021,
+  "cover": "cob22v",
+  "votes": 1199,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-kingdom-come-deliverance-ii": {
+  "igdbId": 298526,
+  "title": "Kingdom Come: Deliverance II",
+  "year": 2025,
+  "cover": "co8qmv",
+  "votes": 289,
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-kingdom-hearts-iii": {
+  "igdbId": 2933,
+  "title": "Kingdom Hearts III",
+  "year": 2019,
+  "cover": "co1tpy",
+  "votes": 256,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-league-of-legends": {
+  "igdbId": 115,
+  "title": "League of Legends",
+  "year": 2009,
+  "cover": "coc99o",
+  "votes": 1032,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "MOBA"
+  ],
+  "platforms": [
+   "PC",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-lego-star-wars-the-skywalker-saga": {
+  "igdbId": 119305,
+  "title": "LEGO Star Wars: The Skywalker Saga",
+  "year": 2022,
+  "cover": "co28yb",
+  "votes": 158,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-lies-of-p": {
+  "igdbId": 148241,
+  "title": "Lies of P",
+  "year": 2023,
+  "cover": "co6lxr",
+  "votes": 354,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-lies-of-p-overture": {
+  "igdbId": 331204,
+  "title": "Lies of P: Overture",
+  "year": 2025,
+  "cover": "co9e24",
+  "votes": 24,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": "Lies of P",
+  "exacto": true
+ },
+ "game-lords-of-the-fallen-2023": {
+  "igdbId": 4847,
+  "title": "Lords of the Fallen",
+  "year": 2014,
+  "cover": "co1nzt",
+  "votes": 179,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-mafia-the-old-country": {
+  "igdbId": 314276,
+  "title": "Mafia: The Old Country",
+  "year": 2025,
+  "cover": "coa9dq",
+  "votes": 138,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-marvel-rivals": {
+  "igdbId": 294041,
+  "title": "Marvel Rivals",
+  "year": 2024,
+  "cover": "codcqn",
+  "votes": 370,
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-marvel-snap": {
+  "igdbId": 202279,
+  "title": "Marvel Snap",
+  "year": 2022,
+  "cover": "co8l47",
+  "votes": 119,
+  "genres": [
+   "Strategy",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Android",
+   "PC",
+   "iOS"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-marvel-s-spider-man": {
+  "igdbId": 19565,
+  "title": "Marvel's Spider-Man",
+  "year": 2018,
+  "cover": "co1r77",
+  "votes": 2210,
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-marvel-s-spider-man-2": {
+  "igdbId": 127044,
+  "title": "Marvel's Spider-Man 2",
+  "year": 2023,
+  "cover": "cobg1k",
+  "votes": 407,
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-marvel-s-spider-man-miles-morales": {
+  "igdbId": 134581,
+  "title": "Marvel's Spider-Man: Miles Morales",
+  "year": 2020,
+  "cover": "cobg1j",
+  "votes": 602,
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "PS5"
+  ],
+  "parent": "Marvel's Spider-Man",
+  "exacto": true
+ },
+ "game-megaloot": {
+  "igdbId": 274998,
+  "title": "Megaloot",
+  "year": 2024,
+  "cover": "co7u6b",
+  "votes": 0,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-message-from-deep-space": {
+  "igdbId": 406341,
+  "title": "The Message From Deep Space",
+  "year": 2026,
+  "cover": "coca0t",
+  "votes": 0,
+  "genres": [
+   "Puzzle",
+   "Indie"
+  ],
+  "platforms": [
+   "PC",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-mewgenics": {
+  "igdbId": 8042,
+  "title": "Mewgenics",
+  "year": 2026,
+  "cover": "co9n5k",
+  "votes": 45,
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-moonlighter-2": {
+  "igdbId": 324570,
+  "title": "Moonlighter 2: The Endless Vault",
+  "year": 2026,
+  "cover": "co94bw",
+  "votes": 1,
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-nier-automata": {
+  "igdbId": 11208,
+  "title": "NieR:Automata",
+  "year": 2017,
+  "cover": "co5pcj",
+  "votes": 1611,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-no-rest-for-the-wicked": {
+  "igdbId": 279627,
+  "title": "No Rest for the Wicked",
+  "year": 2024,
+  "cover": "co7h9r",
+  "votes": 45,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-opus-magnum": {
+  "igdbId": 74545,
+  "title": "Opus Magnum",
+  "year": 2017,
+  "cover": "co1uac",
+  "votes": 40,
+  "genres": [
+   "Puzzle",
+   "Simulator",
+   "Indie"
+  ],
+  "platforms": [
+   "Linux",
+   "PC",
+   "Mac",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-order-of-the-sinking-star": {
+  "igdbId": 381222,
+  "title": "Order of the Sinking Star",
+  "year": 2026,
+  "cover": "coc954",
+  "votes": 8,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-outer-wilds": {
+  "igdbId": 11737,
+  "title": "Outer Wilds",
+  "year": 2019,
+  "cover": "co65ac",
+  "votes": 905,
+  "genres": [
+   "Puzzle",
+   "Simulator",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-palworld": {
+  "igdbId": 151665,
+  "title": "Palworld",
+  "year": 2026,
+  "cover": "co7n02",
+  "votes": 307,
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-papers-please": {
+  "igdbId": 2935,
+  "title": "Papers, Please",
+  "year": 2013,
+  "cover": "co1vep",
+  "votes": 739,
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Simulator",
+   "Indie"
+  ],
+  "platforms": [
+   "Linux",
+   "Android",
+   "PC",
+   "iOS",
+   "Mac",
+   "Vita"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-path-of-exile-2": {
+  "igdbId": 125642,
+  "title": "Path of Exile 2",
+  "year": 2024,
+  "cover": "co8ae0",
+  "votes": 222,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-persona-5-royal": {
+  "igdbId": 114283,
+  "title": "Persona 5 Royal",
+  "year": 2019,
+  "cover": "coclf1",
+  "votes": 693,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": "Persona 5",
+  "exacto": true
+ },
+ "game-phantom-blade-zero": {
+  "igdbId": 250618,
+  "title": "Phantom Blade Zero",
+  "year": 2026,
+  "cover": "cococe",
+  "votes": 17,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-pok-mon-violet": {
+  "igdbId": 191930,
+  "title": "Pokémon Violet",
+  "year": 2022,
+  "cover": "co5sfa",
+  "votes": 134,
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch 2",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-pok-mon-violet-the-indigo-disk": {
+  "igdbId": 239933,
+  "title": "Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk",
+  "year": 2023,
+  "cover": "co6ld0",
+  "votes": 8,
+  "genres": [],
+  "platforms": [
+   "Switch 2",
+   "Switch"
+  ],
+  "parent": "Pokémon Violet",
+  "exacto": false
+ },
+ "game-prince-of-persia-the-lost-crown": {
+  "igdbId": 252476,
+  "title": "Prince of Persia: The Lost Crown",
+  "year": 2024,
+  "cover": "co6lli",
+  "votes": 143,
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-prince-of-persia-the-lost-crown-mask-of-darkness": {
+  "igdbId": 305240,
+  "title": "Prince of Persia: The Lost Crown - Mask of Darkness",
+  "year": 2024,
+  "cover": "co8sq9",
+  "votes": 0,
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": "Prince of Persia: The Lost Crown",
+  "exacto": true
+ },
+ "game-remnant-ii": {
+  "igdbId": 228535,
+  "title": "Remnant II",
+  "year": 2023,
+  "cover": "co6lnp",
+  "votes": 112,
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-resident-evil-2": {
+  "igdbId": 19686,
+  "title": "Resident Evil 2",
+  "year": 2019,
+  "cover": "co1ir3",
+  "votes": 1464,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": "Resident Evil 2",
+  "exacto": true
+ },
+ "game-resident-evil-3": {
+  "igdbId": 115115,
+  "title": "Resident Evil 3",
+  "year": 2020,
+  "cover": "cocw1u",
+  "votes": 641,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": "Resident Evil 3: Nemesis",
+  "exacto": true
+ },
+ "game-resident-evil-4": {
+  "igdbId": 974,
+  "title": "Resident Evil 4",
+  "year": 2005,
+  "cover": "co2wk8",
+  "votes": 1704,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "NGC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-resident-evil-7-biohazard": {
+  "igdbId": 19562,
+  "title": "Resident Evil 7: Biohazard",
+  "year": 2017,
+  "cover": "cobtwh",
+  "votes": 1143,
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Stadia",
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PSVR",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-resident-evil-requiem": {
+  "igdbId": 347668,
+  "title": "Resident Evil Requiem",
+  "year": 2026,
+  "cover": "cobmj0",
+  "votes": 363,
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-right-and-down": {
+  "igdbId": 207494,
+  "title": "Right and Down",
+  "year": 2022,
+  "cover": "co5b7r",
+  "votes": 0,
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "PC",
+   "PS5",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-ruined-king-a-league-of-legends-story": {
+  "igdbId": 127358,
+  "title": "Ruined King: A League of Legends Story",
+  "year": 2021,
+  "cover": "co2jtl",
+  "votes": 34,
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-sackboy-a-big-adventure": {
+  "igdbId": 134585,
+  "title": "Sackboy: A Big Adventure",
+  "year": 2020,
+  "cover": "co4522",
+  "votes": 103,
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-satisfactory": {
+  "igdbId": 90558,
+  "title": "Satisfactory",
+  "year": 2024,
+  "cover": "co8tfy",
+  "votes": 214,
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-schedule-i": {
+  "igdbId": 328373,
+  "title": "Schedule I",
+  "year": 2025,
+  "cover": "co9adi",
+  "votes": 119,
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Indie"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-sea-of-stars": {
+  "igdbId": 131890,
+  "title": "Sea of Stars",
+  "year": 2023,
+  "cover": "co215b",
+  "votes": 144,
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-sekiro-shadows-die-twice": {
+  "igdbId": 76882,
+  "title": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "cover": "co2a23",
+  "votes": 1437,
+  "genres": [
+   "Adventure"
+  ],
+  "platforms": [
+   "Stadia",
+   "PS4",
+   "PC",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-shapez-2": {
+  "igdbId": 225512,
+  "title": "Shapez 2: Factory",
+  "year": 2026,
+  "cover": "cobyep",
+  "votes": 9,
+  "genres": [
+   "Puzzle",
+   "Simulator",
+   "Strategy",
+   "Indie"
+  ],
+  "platforms": [
+   "Linux",
+   "PC",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-shogun-showdown": {
+  "igdbId": 208533,
+  "title": "Shogun Showdown",
+  "year": 2024,
+  "cover": "co6oh5",
+  "votes": 19,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Series X|S",
+   "browser",
+   "PS4",
+   "Linux",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-slay-the-spire": {
+  "igdbId": 40477,
+  "title": "Slay the Spire",
+  "year": 2019,
+  "cover": "co1iyf",
+  "votes": 552,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Adventure",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "PS4",
+   "Linux",
+   "Android",
+   "PC",
+   "iOS",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-slay-the-spire-2": {
+  "igdbId": 296831,
+  "title": "Slay the Spire II",
+  "year": 2026,
+  "cover": "cocle0",
+  "votes": 46,
+  "genres": [
+   "Strategy",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Linux",
+   "PC",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-slime-rancher-2": {
+  "igdbId": 152243,
+  "title": "Slime Rancher 2",
+  "year": 2025,
+  "cover": "co5bbt",
+  "votes": 35,
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-smite-2": {
+  "igdbId": 282566,
+  "title": "Smite 2",
+  "year": 2024,
+  "cover": "co7m9c",
+  "votes": 18,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure",
+   "MOBA"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-split-fiction": {
+  "igdbId": 325594,
+  "title": "Split Fiction",
+  "year": 2025,
+  "cover": "co95gf",
+  "votes": 255,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-stacklands": {
+  "igdbId": 196230,
+  "title": "Stacklands",
+  "year": 2022,
+  "cover": "co4rpb",
+  "votes": 35,
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Indie",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "PC",
+   "Mac",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-star-wars-jedi-fallen-order": {
+  "igdbId": 74701,
+  "title": "Star Wars Jedi: Fallen Order",
+  "year": 2019,
+  "cover": "co1rbi",
+  "votes": 1063,
+  "genres": [
+   "Adventure"
+  ],
+  "platforms": [
+   "Stadia",
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-star-wars-jedi-survivor": {
+  "igdbId": 201156,
+  "title": "Star Wars Jedi: Survivor",
+  "year": 2023,
+  "cover": "co5uzk",
+  "votes": 335,
+  "genres": [
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-star-wars-zero-company": {
+  "igdbId": 340113,
+  "title": "Star Wars Zero Company",
+  "year": 2026,
+  "cover": "coc7a0",
+  "votes": 19,
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-super-mario-3d-world-bowser-s-fury": {
+  "igdbId": 138227,
+  "title": "Super Mario 3D World + Bowser's Fury",
+  "year": 2021,
+  "cover": "cobb2d",
+  "votes": 126,
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch 2",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-super-mario-bros-wonder": {
+  "igdbId": 254339,
+  "title": "Super Mario Bros. Wonder",
+  "year": 2023,
+  "cover": "co6nnl",
+  "votes": 232,
+  "genres": [
+   "Platform"
+  ],
+  "platforms": [
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-super-mario-odyssey": {
+  "igdbId": 26758,
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "cover": "co1mxf",
+  "votes": 1915,
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch 2",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-sword-of-the-sea": {
+  "igdbId": 250620,
+  "title": "Sword of the Sea",
+  "year": 2025,
+  "cover": "co9xx2",
+  "votes": 43,
+  "genres": [
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Switch 2",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-tainted-grail-the-fall-of-avalon": {
+  "igdbId": 127697,
+  "title": "Tainted Grail: The Fall of Avalon",
+  "year": 2025,
+  "cover": "co65pk",
+  "votes": 46,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-teamfight-tactics": {
+  "igdbId": 120176,
+  "title": "Teamfight Tactics",
+  "year": 2019,
+  "cover": "cocsmb",
+  "votes": 133,
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Android",
+   "PC",
+   "iOS",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-alters": {
+  "igdbId": 204634,
+  "title": "The Alters",
+  "year": 2025,
+  "cover": "coaaju",
+  "votes": 91,
+  "genres": [
+   "Simulator",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-bazaar": {
+  "igdbId": 144274,
+  "title": "The Bazaar",
+  "year": 2025,
+  "cover": "coclfj",
+  "votes": 9,
+  "genres": [
+   "Strategy",
+   "Card & Board Game"
+  ],
+  "platforms": [
+   "Android",
+   "PC",
+   "iOS",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-big-walk": {
+  "igdbId": 279624,
+  "title": "Big Walk",
+  "year": 2026,
+  "cover": "co7h9m",
+  "votes": 26,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-the-blood-of-dawnwalker": {
+  "igdbId": 282831,
+  "title": "The Blood of Dawnwalker",
+  "year": 2026,
+  "cover": "cob7ym",
+  "votes": 53,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-dark-queen-of-mortholme": {
+  "igdbId": 325202,
+  "title": "The Dark Queen of Mortholme",
+  "year": 2024,
+  "cover": "co9ck1",
+  "votes": 22,
+  "genres": [
+   "Role-playing (RPG)",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "Linux",
+   "PC",
+   "PS5",
+   "Mac"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-first-berserker-khazan": {
+  "igdbId": 279643,
+  "title": "The First Berserker: Khazan",
+  "year": 2025,
+  "cover": "co8roc",
+  "votes": 44,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-last-flame": {
+  "igdbId": 226601,
+  "title": "The Last Flame",
+  "year": 2025,
+  "cover": "co6vfy",
+  "votes": 0,
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Tactical",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-last-of-us-part-i": {
+  "igdbId": 204350,
+  "title": "The Last of Us Part I",
+  "year": 2022,
+  "cover": "coa1gq",
+  "votes": 834,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "PC",
+   "PS5"
+  ],
+  "parent": "The Last of Us",
+  "exacto": true
+ },
+ "game-the-last-of-us-part-ii": {
+  "igdbId": 26192,
+  "title": "The Last of Us Part II",
+  "year": 2020,
+  "cover": "co5ziw",
+  "votes": 1845,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-legend-of-zelda-breath-of-the-wild": {
+  "igdbId": 7346,
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "year": 2017,
+  "cover": "co3p2d",
+  "votes": 3045,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "WiiU",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-legend-of-zelda-echoes-of-wisdom": {
+  "igdbId": 306149,
+  "title": "The Legend of Zelda: Echoes of Wisdom",
+  "year": 2024,
+  "cover": "co8d9b",
+  "votes": 91,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch 2",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-legend-of-zelda-ocarina-of-time": {
+  "igdbId": 1029,
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "year": 1998,
+  "cover": "co3nnx",
+  "votes": 2193,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Wii",
+   "N64",
+   "64DD",
+   "WiiU"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-legend-of-zelda-tears-of-the-kingdom": {
+  "igdbId": 119388,
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "year": 2023,
+  "cover": "co5vmg",
+  "votes": 954,
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-mageseeker-a-league-of-legends-story": {
+  "igdbId": 239302,
+  "title": "The Mageseeker: A League of Legends Story",
+  "year": 2023,
+  "cover": "co670x",
+  "votes": 20,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-talos-principle": {
+  "igdbId": 7386,
+  "title": "The Talos Principle",
+  "year": 2014,
+  "cover": "co1rb5",
+  "votes": 488,
+  "genres": [
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PS4",
+   "Linux",
+   "Android",
+   "PC",
+   "iOS",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-the-talos-principle-2": {
+  "igdbId": 79864,
+  "title": "The Talos Principle II",
+  "year": 2023,
+  "cover": "co6jbl",
+  "votes": 64,
+  "genres": [
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": false
+ },
+ "game-the-witcher-3-wild-hunt": {
+  "igdbId": 1942,
+  "title": "The Witcher 3: Wild Hunt",
+  "year": 2015,
+  "cover": "coaarl",
+  "votes": 5570,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-titan-souls": {
+  "igdbId": 9559,
+  "title": "Titan Souls",
+  "year": 2015,
+  "cover": "co2xo0",
+  "votes": 107,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PS4",
+   "Android",
+   "PC",
+   "Mac",
+   "Vita"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-tomb-raider": {
+  "igdbId": 1164,
+  "title": "Tomb Raider",
+  "year": 2013,
+  "cover": "co1rbu",
+  "votes": 2411,
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS3",
+   "Linux",
+   "Android",
+   "PC",
+   "iOS",
+   "Mac",
+   "X360"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-tunic": {
+  "igdbId": 23733,
+  "title": "Tunic",
+  "year": 2022,
+  "cover": "td1t8kb33gyo8mvhl2pc",
+  "votes": 259,
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "PS5",
+   "Mac",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-uncharted-4-a-thief-s-end": {
+  "igdbId": 7331,
+  "title": "Uncharted 4: A Thief's End",
+  "year": 2016,
+  "cover": "co1r7h",
+  "votes": 2707,
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-v-rising": {
+  "igdbId": 148228,
+  "title": "V Rising",
+  "year": 2024,
+  "cover": "coby9v",
+  "votes": 91,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-viewfinder": {
+  "igdbId": 142549,
+  "title": "Viewfinder",
+  "year": 2023,
+  "cover": "coaev1",
+  "votes": 115,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-windblown": {
+  "igdbId": 279617,
+  "title": "Windblown",
+  "year": 2024,
+  "cover": "cocclq",
+  "votes": 6,
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Indie"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-windrose": {
+  "igdbId": 380441,
+  "title": "Windrose",
+  "year": 2026,
+  "cover": "cobwn8",
+  "votes": 12,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure",
+   "Indie"
+  ],
+  "platforms": [
+   "PC"
+  ],
+  "parent": null,
+  "exacto": true
+ }
+}

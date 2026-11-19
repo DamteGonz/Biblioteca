@@ -286,24 +286,6 @@
   "parent": null,
   "exacto": true
  },
- "game-castlevania": {
-  "igdbId": 1130,
-  "title": "Castlevania",
-  "year": 1999,
-  "cover": "co5geb",
-  "votes": 40,
-  "genres": [
-   "Platform",
-   "Puzzle",
-   "Hack and slash/Beat 'em up",
-   "Adventure"
-  ],
-  "platforms": [
-   "N64"
-  ],
-  "parent": null,
-  "exacto": true
- },
  "game-chants-of-sennaar": {
   "igdbId": 198499,
   "title": "Chants of Sennaar",
@@ -2792,7 +2774,6 @@
   "parent": "Doom II: Hell on Earth",
   "exacto": true
  },
- "game-god-of-war-ragnar-k-valhalla": null,
  "game-lords-of-the-fallen-2023": {
   "igdbId": 21593,
   "title": "Lords of the Fallen",
@@ -2859,5 +2840,24 @@
   ],
   "parent": null,
   "exacto": false
- }
+ },
+ "game-castlevania-2026": {
+  "igdbId": 1130,
+  "title": "Castlevania",
+  "year": 1999,
+  "cover": "co5geb",
+  "votes": 40,
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "N64"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-god-of-war-ragnar-k-valhalla": null
 }

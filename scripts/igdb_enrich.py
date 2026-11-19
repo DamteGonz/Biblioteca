@@ -23,8 +23,9 @@ ANTES_2021 = 1609459200  # 2021-01-01 en segundos
 
 def token():
     r = requests.post("https://id.twitch.tv/oauth2/token", data={
-        "client_id": CLIENT_ID, "client_secret": SECRET, "grant_type": "client_credentials"}, timeout=30)
-    r.raise_for_status()
+        "client_id": CLIENT_ID, "client_secret": SECRET.strip(), "grant_type": "client_credentials"}, timeout=30)
+    if r.status_code != 200:
+        sys.exit(f"Twitch rechazó el token ({r.status_code}): {r.text} | longitud del secreto: {len(SECRET.strip())}")
     return r.json()["access_token"]
 
 

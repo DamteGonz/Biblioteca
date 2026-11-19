@@ -308,6 +308,7 @@ OVERRIDES = {
     ("series", "House of the Dragon"): {"rating": 8.5, "status": "en_emision"},
     ("series", "3 Body Problem"): {"rating": 8.5, "status": "en_emision"},
     ("series", "A Knight of the Seven Kingdoms"): {"rating": 9, "status": "en_emision"},
+    ("series", "Gen V"): {"rating": 7, "status": "en_curso"},
 }
 
 

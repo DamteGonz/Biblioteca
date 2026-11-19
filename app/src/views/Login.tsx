@@ -2,7 +2,7 @@ import { useState, type FormEvent } from "react";
 import { supabase } from "../lib/supabase";
 
 export function Login() {
-  const [modo, setModo] = useState<"entrar" | "crear">("entrar");
+  const modo = "entrar" as "entrar" | "crear"; // registros cerrados: solo hay una cuenta
   const [email, setEmail] = useState("");
   const [pass, setPass] = useState("");
   const [msg, setMsg] = useState<{ tipo: "error" | "ok"; texto: string } | null>(null);
@@ -24,7 +24,6 @@ export function Login() {
       setMsg({ tipo: "error", texto: t });
     } else if (modo === "crear") {
       setMsg({ tipo: "ok", texto: "¡Cuenta creada! Te he mandado un email: pulsa el enlace para confirmarla y luego entra." });
-      setModo("entrar");
     }
   }
 
@@ -48,9 +47,6 @@ export function Login() {
           {enviando ? "…" : modo === "entrar" ? "Entrar" : "Crear cuenta"}
         </button>
       </form>
-      <button className="enlace" onClick={() => { setModo(modo === "entrar" ? "crear" : "entrar"); setMsg(null); }}>
-        {modo === "entrar" ? "¿Primera vez? Crea tu cuenta" : "Ya tengo cuenta"}
-      </button>
     </main>
   );
 }

@@ -46,7 +46,6 @@
           "rating": null
         }
       ],
-      "revisar": "¿Alan Wake 1 o 2?",
       "years": [
         2024
       ],
@@ -120,6 +119,23 @@
       ],
       "status": "visto",
       "rating": 10.0
+    },
+    {
+      "id": "game-beneath-oresa",
+      "type": "game",
+      "title": "Beneath Oresa",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "obesa",
+          "rating": 6.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 6.5
     },
     {
       "id": "game-black-myth-wukong",
@@ -463,6 +479,23 @@
       "rating": 8.0
     },
     {
+      "id": "game-doom-2016",
+      "type": "game",
+      "title": "Doom (2016)",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Doom",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
       "id": "game-doom-3",
       "type": "game",
       "title": "Doom 3",
@@ -495,24 +528,6 @@
       ],
       "status": "pendiente",
       "rating": null
-    },
-    {
-      "id": "game-doom-the-dark-ages",
-      "type": "game",
-      "title": "Doom: The Dark Ages",
-      "entries": [
-        {
-          "year": 2025,
-          "excel": "Doom",
-          "rating": 8.5
-        }
-      ],
-      "revisar": "¿Doom (2016), Eternal o The Dark Ages?",
-      "years": [
-        2025
-      ],
-      "status": "visto",
-      "rating": 8.5
     },
     {
       "id": "game-dragon-s-dogma-2",
@@ -618,10 +633,15 @@
       "rating": 8.5
     },
     {
-      "id": "game-final-fantasy-vii-rebirth",
+      "id": "game-final-fantasy-vii-remake",
       "type": "game",
-      "title": "Final Fantasy VII Rebirth",
+      "title": "Final Fantasy VII Remake",
       "entries": [
+        {
+          "year": 2023,
+          "excel": "FFVII REMAKE",
+          "rating": 7.5
+        },
         {
           "year": 2025,
           "excel": "FF7",
@@ -631,25 +651,6 @@
           "year": 2026,
           "excel": "FF7",
           "rating": null
-        }
-      ],
-      "revisar": "¿FF7 Rebirth u otro?",
-      "years": [
-        2025,
-        2026
-      ],
-      "status": "pendiente",
-      "rating": null
-    },
-    {
-      "id": "game-final-fantasy-vii-remake",
-      "type": "game",
-      "title": "Final Fantasy VII Remake",
-      "entries": [
-        {
-          "year": 2023,
-          "excel": "FFVII REMAKE",
-          "rating": 7.5
         }
       ],
       "years": [
@@ -1303,24 +1304,6 @@
       "rating": 8.5
     },
     {
-      "id": "game-obesa",
-      "type": "game",
-      "title": "Obesa",
-      "entries": [
-        {
-          "year": 2022,
-          "excel": "obesa",
-          "rating": 6.5
-        }
-      ],
-      "revisar": "No sé qué juego es",
-      "years": [
-        2022
-      ],
-      "status": "visto",
-      "rating": 6.5
-    },
-    {
       "id": "game-opus-magnum",
       "type": "game",
       "title": "Opus Magnum",
@@ -1457,24 +1440,6 @@
       "rating": null
     },
     {
-      "id": "game-pok-mon-legends-z-a",
-      "type": "game",
-      "title": "Pokémon Legends: Z-A",
-      "entries": [
-        {
-          "year": 2024,
-          "excel": "pokemon Z",
-          "rating": 8.0
-        }
-      ],
-      "revisar": "Está en 2024 pero salió en 2025",
-      "years": [
-        2024
-      ],
-      "status": "visto",
-      "rating": 8.0
-    },
-    {
       "id": "game-pok-mon-reminiscencia",
       "type": "game",
       "title": "Pokémon Reminiscencia",
@@ -1485,7 +1450,7 @@
           "rating": 5.0
         }
       ],
-      "revisar": "¿Qué Pokémon es?",
+      "hackrom": true,
       "years": [
         2024
       ],
@@ -1526,6 +1491,24 @@
       ],
       "status": "visto",
       "rating": 9.0
+    },
+    {
+      "id": "game-pok-mon-z",
+      "type": "game",
+      "title": "Pokémon Z",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "pokemon Z",
+          "rating": 8.0
+        }
+      ],
+      "hackrom": true,
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
     },
     {
       "id": "game-prince-of-persia-the-lost-crown",
@@ -1823,7 +1806,6 @@
           "rating": 8.0
         }
       ],
-      "revisar": "¿Es el juego Shogun Showdown?",
       "years": [
         2024
       ],
@@ -2443,9 +2425,9 @@
       "rating": 9.5
     },
     {
-      "id": "game-uncharted-legacy-of-thieves-collection",
+      "id": "game-uncharted-4-a-thief-s-end",
       "type": "game",
-      "title": "Uncharted: Legacy of Thieves Collection",
+      "title": "Uncharted 4: A Thief's End",
       "entries": [
         {
           "year": 2022,
@@ -2453,7 +2435,6 @@
           "rating": 9.0
         }
       ],
-      "revisar": "¿Qué Uncharted?",
       "years": [
         2022
       ],
@@ -2716,9 +2697,9 @@
       "rating": 7.0
     },
     {
-      "id": "movie-blade-runner",
+      "id": "movie-blade-runner-2049",
       "type": "movie",
-      "title": "Blade Runner",
+      "title": "Blade Runner 2049",
       "entries": [
         {
           "year": 2025,
@@ -2731,7 +2712,6 @@
           "rating": 8.0
         }
       ],
-      "revisar": "¿Blade Runner (1982) o 2049?",
       "years": [
         2026
       ],
@@ -2983,24 +2963,6 @@
       "rating": null
     },
     {
-      "id": "movie-full-moon",
-      "type": "movie",
-      "title": "Full Moon",
-      "entries": [
-        {
-          "year": 2024,
-          "excel": "Full Moon",
-          "rating": null
-        }
-      ],
-      "revisar": "¿Qué película es?",
-      "years": [
-        2024
-      ],
-      "status": "pendiente",
-      "rating": null
-    },
-    {
       "id": "movie-green-book",
       "type": "movie",
       "title": "Green Book",
@@ -3035,9 +2997,26 @@
       "rating": 8.5
     },
     {
-      "id": "movie-hulk",
+      "id": "movie-hoppers",
       "type": "movie",
-      "title": "Hulk",
+      "title": "Hoppers",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "jumpers",
+          "rating": 5.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 5.0
+    },
+    {
+      "id": "movie-hulk-2003",
+      "type": "movie",
+      "title": "Hulk (2003)",
       "entries": [
         {
           "year": 2025,
@@ -3045,7 +3024,6 @@
           "rating": 5.0
         }
       ],
-      "revisar": "¿Hulk (2003) o El increíble Hulk (2008)?",
       "years": [
         2025
       ],
@@ -3053,9 +3031,9 @@
       "rating": 5.0
     },
     {
-      "id": "movie-indiana-jones-and-the-dial-of-destiny",
+      "id": "movie-indiana-jones-and-the-last-crusade",
       "type": "movie",
-      "title": "Indiana Jones and the Dial of Destiny",
+      "title": "Indiana Jones and the Last Crusade",
       "entries": [
         {
           "year": 2024,
@@ -3063,7 +3041,23 @@
           "rating": 7.5
         }
       ],
-      "revisar": "¿Qué Indiana Jones?",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-indiana-jones-and-the-temple-of-doom",
+      "type": "movie",
+      "title": "Indiana Jones and the Temple of Doom",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "indiana jones",
+          "rating": 7.5
+        }
+      ],
       "years": [
         2024
       ],
@@ -3105,24 +3099,6 @@
       "rating": 8.0
     },
     {
-      "id": "movie-jumpers",
-      "type": "movie",
-      "title": "Jumpers",
-      "entries": [
-        {
-          "year": 2026,
-          "excel": "jumpers",
-          "rating": 5.0
-        }
-      ],
-      "revisar": "¿Qué película es?",
-      "years": [
-        2026
-      ],
-      "status": "visto",
-      "rating": 5.0
-    },
-    {
       "id": "movie-juror-2",
       "type": "movie",
       "title": "Juror #2",
@@ -3140,9 +3116,26 @@
       "rating": 6.0
     },
     {
-      "id": "movie-obsession",
+      "id": "movie-killers-of-the-flower-moon",
       "type": "movie",
-      "title": "Obsession",
+      "title": "Killers of the Flower Moon",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Full Moon",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-obsession-2026",
+      "type": "movie",
+      "title": "Obsession (2026)",
       "entries": [
         {
           "year": 2026,
@@ -3150,7 +3143,6 @@
           "rating": 8.5
         }
       ],
-      "revisar": "¿Qué película es?",
       "years": [
         2026
       ],
@@ -3241,6 +3233,23 @@
       ],
       "status": "visto",
       "rating": 9.5
+    },
+    {
+      "id": "movie-raiders-of-the-lost-ark",
+      "type": "movie",
+      "title": "Raiders of the Lost Ark",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "indiana jones",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
     },
     {
       "id": "movie-rear-window",
@@ -3372,7 +3381,6 @@
           "rating": 9.5
         }
       ],
-      "revisar": "¿Es Cruzando el Multiverso?",
       "years": [
         2023
       ],
@@ -3548,7 +3556,6 @@
           "rating": 6.0
         }
       ],
-      "revisar": "¿Sirenas de las profundidades?",
       "years": [
         2025
       ],
@@ -3607,9 +3614,9 @@
       "rating": 8.0
     },
     {
-      "id": "movie-venom-let-there-be-carnage",
+      "id": "movie-venom",
       "type": "movie",
-      "title": "Venom: Let There Be Carnage",
+      "title": "Venom",
       "entries": [
         {
           "year": 2021,
@@ -3617,7 +3624,6 @@
           "rating": 7.0
         }
       ],
-      "revisar": "¿Venom 1 o 2?",
       "years": [
         2021
       ],
@@ -3751,9 +3757,9 @@
       "rating": 10.0
     },
     {
-      "id": "series-bad-guy",
+      "id": "series-bad-guy-2022",
       "type": "series",
-      "title": "Bad Guy",
+      "title": "Bad Guy (2022)",
       "entries": [
         {
           "year": 2025,
@@ -3766,7 +3772,6 @@
           "rating": null
         }
       ],
-      "revisar": "¿Qué serie es?",
       "years": [
         2025,
         2026
@@ -3812,8 +3817,7 @@
         2025
       ],
       "status": "visto",
-      "rating": null,
-      "preguntarNotaTotal": true
+      "rating": 9
     },
     {
       "id": "series-blue-eye-samurai",
@@ -4175,9 +4179,9 @@
       "rating": null
     },
     {
-      "id": "series-rafa-nadal",
+      "id": "series-rafa-nadal-documental-de-netflix",
       "type": "series",
-      "title": "Rafa Nadal",
+      "title": "Rafa Nadal (documental de Netflix)",
       "entries": [
         {
           "year": 2026,
@@ -4185,7 +4189,6 @@
           "rating": 9.0
         }
       ],
-      "revisar": "¿Nombre exacto del documental?",
       "years": [
         2026
       ],
@@ -4231,7 +4234,6 @@
           "rating": 7.0
         }
       ],
-      "revisar": "¿'next lvl' es Secret Level?",
       "years": [
         2025
       ],
@@ -4369,9 +4371,9 @@
       "rating": 7
     },
     {
-      "id": "series-the-greatest",
+      "id": "series-the-greatest-serie-de-ali",
       "type": "series",
-      "title": "The Greatest",
+      "title": "The Greatest (serie de Ali)",
       "entries": [
         {
           "year": 2026,
@@ -4379,7 +4381,6 @@
           "rating": null
         }
       ],
-      "revisar": "¿Qué serie es?",
       "years": [
         2026
       ],
@@ -4434,8 +4435,7 @@
         2023
       ],
       "status": "visto",
-      "rating": null,
-      "preguntarNotaTotal": true
+      "rating": 8.5
     },
     {
       "id": "series-the-wheel-of-time",
@@ -4496,8 +4496,7 @@
         2025
       ],
       "status": "visto",
-      "rating": null,
-      "preguntarNotaTotal": true
+      "rating": 9
     },
     {
       "id": "series-the-witcher-blood-origin",

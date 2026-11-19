@@ -41,9 +41,9 @@ MAP = {
     (G, "stackland"): {"t": "Stacklands"},
     (G, "marvel snap"): {"t": "Marvel Snap"},
     (G, "cult of lamb"): {"t": "Cult of the Lamb"},
-    (G, "obesa"): {"t": "Obesa", "revisar": "No sé qué juego es"},
+    (G, "obesa"): {"t": "Beneath Oresa"},
     (G, "mario odyssey"): {"t": "Super Mario Odyssey"},
-    (G, "uncharted"): {"t": "Uncharted: Legacy of Thieves Collection", "revisar": "¿Qué Uncharted?"},
+    (G, "uncharted"): {"t": "Uncharted 4: A Thief's End"},
     (G, "star wars jedi 1"): {"t": "Star Wars Jedi: Fallen Order"},
     (G, "v rising"): {"t": "V Rising"},
     (G, "cuyberpunk"): {"t": "Cyberpunk 2077"},
@@ -77,11 +77,11 @@ MAP = {
     (G, "talos 1"): {"t": "The Talos Principle"},
     (G, "dragons dogma 2"): {"t": "Dragon's Dogma 2"},
     (G, "duckshot roulette"): {"t": "Buckshot Roulette"},
-    (G, "pokemon reminiscencia"): {"t": "Pokémon Reminiscencia", "revisar": "¿Qué Pokémon es?"},
+    (G, "pokemon reminiscencia"): {"t": "Pokémon Reminiscencia", "hackrom": True},
     (G, "palm world"): {"t": "Palworld"},
     (G, "sea of stars"): {"t": "Sea of Stars"},
     (G, "ghost of tsushima"): {"t": "Ghost of Tsushima"},
-    (G, "alan wake"): {"t": "Alan Wake 2", "revisar": "¿Alan Wake 1 o 2?"},
+    (G, "alan wake"): {"t": "Alan Wake 2"},
     (G, "opus magnun"): {"t": "Opus Magnum"},
     (G, "futbol manager"): {"t": "Football Manager 2024"},
     (G, "megaloot"): {"t": "Megaloot"},
@@ -91,8 +91,8 @@ MAP = {
     (G, "titan souls"): {"t": "Titan Souls"},
     (G, "balatro"): {"t": "Balatro"},
     (G, "dark souls"): {"t": "Dark Souls Remastered"},
-    (G, "pokemon z"): {"t": "Pokémon Legends: Z-A", "revisar": "Está en 2024 pero salió en 2025"},
-    (G, "shogun"): {"t": "Shogun Showdown", "revisar": "¿Es el juego Shogun Showdown?"},
+    (G, "pokemon z"): {"t": "Pokémon Z", "hackrom": True},
+    (G, "shogun"): {"t": "Shogun Showdown"},
     (G, "dlc prince of persia"): {"t": "Prince of Persia: The Lost Crown – Mask of Darkness", "dlc": "Prince of Persia: The Lost Crown"},
     (G, "enshrouded"): {"t": "Enshrouded"},
     (G, "wukong"): {"t": "Black Myth: Wukong"},
@@ -111,11 +111,11 @@ MAP = {
     (G, "lies of p dlc"): {"t": "Lies of P: Overture", "dlc": "Lies of P"},
     (G, "ds3"): {"t": "Dark Souls III"},
     (G, "spiderman 2"): {"t": "Marvel's Spider-Man 2"},
-    (G, "doom"): {"t": "Doom: The Dark Ages", "revisar": "¿Doom (2016), Eternal o The Dark Ages?"},
+    (G, "doom"): {"t": "Doom (2016)"},
     (G, "kingdom come 2"): {"t": "Kingdom Come: Deliverance II"},
     (G, "khazan"): {"t": "The First Berserker: Khazan"},
     (G, "nightreign"): {"t": "Elden Ring Nightreign"},
-    (G, "ff7"): {"t": "Final Fantasy VII Rebirth", "revisar": "¿FF7 Rebirth u otro?"},
+    (G, "ff7"): {"t": "Final Fantasy VII Remake"},
     (G, "it takes two"): {"t": "It Takes Two"},
     (G, "expedition 33"): {"t": "Clair Obscur: Expedition 33"},
     (G, "poe2"): {"t": "Path of Exile 2"},
@@ -180,7 +180,7 @@ MAP = {
     (M, "spiderman no way home"): {"t": "Spider-Man: No Way Home"},
     (M, "the gentleman"): {"t": "The Gentlemen"},
     (M, "el irlandes"): {"t": "The Irishman"},
-    (M, "venom"): {"t": "Venom: Let There Be Carnage", "revisar": "¿Venom 1 o 2?"},
+    (M, "venom"): {"t": "Venom"},
     (M, "naruto"): {"t": "Naruto", "type": S, "anime": True},
     (M, "jhon wick"): {"t": "John Wick"},
     (M, "dr strange"): {"t": "Doctor Strange in the Multiverse of Madness"},
@@ -195,26 +195,26 @@ MAP = {
     (M, "guardianes de la galax"): {"t": "Guardians of the Galaxy Vol. 3"},
     (M, "tetris"): {"t": "Tetris"},
     (M, "air"): {"t": "Air"},
-    (M, "spiderman 2"): {"t": "Spider-Man: Across the Spider-Verse", "revisar": "¿Es Cruzando el Multiverso?"},
+    (M, "spiderman 2"): {"t": "Spider-Man: Across the Spider-Verse"},
     (M, "openheimer"): {"t": "Oppenheimer"},
     (M, "road house"): {"t": "Road House (2024)"},
     (M, "the man of earth"): {"t": "The Man from Earth"},
     (M, "man on earth"): {"t": "The Man from Earth"},
     (M, "deadpool wolverine"): {"t": "Deadpool & Wolverine"},
-    (M, "indiana jones"): {"t": "Indiana Jones and the Dial of Destiny", "revisar": "¿Qué Indiana Jones?"},
+    (M, "indiana jones"): {"multi": ["Raiders of the Lost Ark", "Indiana Jones and the Temple of Doom", "Indiana Jones and the Last Crusade"]},
     (M, "dune"): {"t": "Dune"},
     (M, "dragones y mazmorras"): {"t": "Dungeons & Dragons: Honor Among Thieves"},
     (M, "dune 2"): {"t": "Dune: Part Two"},
-    (M, "full moon"): {"t": "Full Moon", "revisar": "¿Qué película es?"},
+    (M, "full moon"): {"t": "Killers of the Flower Moon"},
     (M, "dunkerke"): {"t": "Dunkirk"},
     (M, "free guy"): {"t": "Free Guy"},
     (M, "los intocables de eliot nest"): {"t": "The Untouchables"},
     (M, "alphago"): {"t": "AlphaGo"},
     (M, "speak no evil"): {"t": "Speak No Evil"},
     (M, "casino royal"): {"t": "Casino Royale"},
-    (M, "hulk"): {"t": "Hulk", "revisar": "¿Hulk (2003) o El increíble Hulk (2008)?"},
+    (M, "hulk"): {"t": "Hulk (2003)"},
     (M, "rocky"): {"t": "Rocky"},
-    (M, "witcher"): {"t": "The Witcher: Sirens of the Deep", "revisar": "¿Sirenas de las profundidades?"},
+    (M, "witcher"): {"t": "The Witcher: Sirens of the Deep"},
     (M, "jurado numero 2"): {"t": "Juror #2"},
     (M, "otra ronda"): {"t": "Another Round"},
     (M, "die hard"): {"t": "Die Hard"},
@@ -225,12 +225,12 @@ MAP = {
     (M, "una batalla detras de otra"): {"t": "One Battle After Another"},
     (M, "le mans 66"): {"t": "Ford v Ferrari"},
     (M, "green book"): {"t": "Green Book"},
-    (M, "blade runner"): {"t": "Blade Runner", "revisar": "¿Blade Runner (1982) o 2049?"},
+    (M, "blade runner"): {"t": "Blade Runner 2049"},
     (M, "diamantes en bruto"): {"t": "Uncut Gems"},
     (M, "parasite"): {"t": "Parasite"},
     (M, "dia de entreno"): {"t": "Training Day"},
     (M, "project hail marry"): {"t": "Project Hail Mary"},
-    (M, "jumpers"): {"t": "Jumpers", "revisar": "¿Qué película es?"},
+    (M, "jumpers"): {"t": "Hoppers"},
     (M, "interstellar"): {"t": "Interstellar"},
     (M, "contact"): {"t": "Contact"},
     (M, "odisea 2001"): {"t": "2001: A Space Odyssey"},
@@ -241,7 +241,7 @@ MAP = {
     (M, "ventana indiscreta"): {"t": "Rear Window"},
     (M, "about time"): {"t": "About Time"},
     (M, "odisea"): {"t": "The Odyssey (2026)"},
-    (M, "obsession"): {"t": "Obsession", "revisar": "¿Qué película es?"},
+    (M, "obsession"): {"t": "Obsession (2026)"},
     # ---------- SERIES ----------
     (S, "the wicther season 1"): {"t": "The Witcher"},
     (S, "the witcher"): {"t": "The Witcher"},
@@ -284,20 +284,20 @@ MAP = {
     (S, "hxh"): {"t": "Hunter x Hunter", "anime": True},
     (S, "invencible"): {"t": "Invincible"},
     (S, "secret lvl"): {"t": "Secret Level"},
-    (S, "next lvl"): {"t": "Secret Level", "revisar": "¿'next lvl' es Secret Level?"},
+    (S, "next lvl"): {"t": "Secret Level"},
     (S, "shogun"): {"t": "Shōgun"},
     (S, "suburra"): {"t": "Suburra: Blood on Rome"},
     (S, "alice in borderland"): {"t": "Alice in Borderland"},
     (S, "adolescence"): {"t": "Adolescence"},
     (S, "squid games"): {"t": "Squid Game"},
-    (S, "bad guy"): {"t": "Bad Guy", "revisar": "¿Qué serie es?"},
+    (S, "bad guy"): {"t": "Bad Guy (2022)"},
     (S, "pluribus"): {"t": "Pluribus"},
     (S, "love and robots"): {"t": "Love, Death & Robots"},
     (S, "spider noir"): {"t": "Spider-Noir"},
     (S, "dr stone"): {"t": "Dr. Stone", "anime": True},
-    (S, "rafa nadal"): {"t": "Rafa Nadal", "revisar": "¿Nombre exacto del documental?"},
+    (S, "rafa nadal"): {"t": "Rafa Nadal (documental de Netflix)"},
     (S, "un caballero de los 7 reinos"): {"t": "A Knight of the Seven Kingdoms"},
-    (S, "the greatest"): {"t": "The Greatest", "revisar": "¿Qué serie es?"},
+    (S, "the greatest"): {"t": "The Greatest (serie de Ali)"},
 }
 
 # Decisiones que tomaste en el chat (tienen prioridad sobre el Excel).
@@ -309,6 +309,9 @@ OVERRIDES = {
     ("series", "3 Body Problem"): {"rating": 8.5, "status": "en_emision"},
     ("series", "A Knight of the Seven Kingdoms"): {"rating": 9, "status": "en_emision"},
     ("series", "Gen V"): {"rating": 7, "status": "en_curso"},
+    ("series", "The Witcher"): {"rating": 9},
+    ("series", "The Mandalorian"): {"rating": 8.5},
+    ("series", "Black Mirror"): {"rating": 9},
 }
 
 
@@ -334,17 +337,25 @@ def main(path):
                 continue
             raw = str(raw).strip()
             info = MAP.get((tipo, raw.lower()), {"t": raw, "revisar": "Título sin normalizar"})
-            t = info.get("type", tipo)
-            key = (t, info["t"])
-            it = items.setdefault(key, {
-                "id": f"{t}-{slug(info['t'])}", "type": t, "title": info["t"],
-                "entries": [],
-            })
-            for k, campo in (("anime", "anime"), ("dlc", "dlcOf"), ("revisar", "revisar")):
-                if k in info:
-                    it[campo] = info[k]
-            it["entries"].append({"year": int(hoja), "excel": raw, "rating": num(ws[f"{cn}{r}"].value)})
+            for titulo in info.get("multi", [info.get("t")]):
+                add(items, dict(info, t=titulo), tipo, hoja, raw, num(ws[f"{cn}{r}"].value))
+    finalizar(items)
 
+
+def add(items, info, tipo, hoja, raw, nota):
+    t = info.get("type", tipo)
+    key = (t, info["t"])
+    it = items.setdefault(key, {
+        "id": f"{t}-{slug(info['t'])}", "type": t, "title": info["t"],
+        "entries": [],
+    })
+    for k, campo in (("anime", "anime"), ("dlc", "dlcOf"), ("revisar", "revisar"), ("hackrom", "hackrom")):
+        if k in info:
+            it[campo] = info[k]
+    it["entries"].append({"year": int(hoja), "excel": raw, "rating": nota})
+
+
+def finalizar(items):
     for it in items.values():
         rated = [e for e in it["entries"] if e["rating"] is not None]
         it["years"] = sorted({e["year"] for e in it["entries"]})

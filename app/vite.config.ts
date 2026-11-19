@@ -3,7 +3,8 @@ import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
-  base: "/Biblioteca/",
+  // GitHub Pages sirve la app en /Biblioteca/; Netlify en la raíz (BASE_PATH=/).
+  base: process.env.BASE_PATH ?? "/Biblioteca/",
   plugins: [
     react(),
     VitePWA({

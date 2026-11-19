@@ -1,0 +1,21 @@
+# Despliegue en Netlify: la app vive en app/ y se sirve desde la raíz del dominio.
+[build]
+  base = "app"
+  command = "python3 ../scripts/build_app_data.py && npm run build"
+  publish = "dist"
+
+[build.environment]
+  BASE_PATH = "/"
+  NODE_VERSION = "20"
+  PYTHON_VERSION = "3.11"
+
+# Cualquier ruta carga la app (navegación por pestañas en el cliente).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"

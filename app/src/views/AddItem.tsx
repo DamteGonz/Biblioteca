@@ -78,7 +78,7 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
       <div className="chips envolver">
         {TIPOS.map((t) => (
           <button key={t.id} className={`chip ${tipo === t.id ? "on" : ""}`} onClick={() => { setTipo(t.id); setElegido(null); }}>
-            {t.icono} {t.nombre}
+            {t.nombre}
           </button>
         ))}
       </div>

@@ -54,7 +54,7 @@ export function ItemSheet({ item, onClose }: { item: Item | null; onClose: () =>
           <Cover src={it.cover} title={it.title} type={it.type} className="ficha-cover" />
           <div className="ficha-datos">
             <p className="ficha-tipo">
-              {tipoInfo(it.type).icono} {tipoInfo(it.type).nombre}
+              {tipoInfo(it.type).nombre}
               {it.anime && " · anime"}
               {it.hackrom && " · hackrom"}
               {it.release_year && ` · ${it.release_year}`}

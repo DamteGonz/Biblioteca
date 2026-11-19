@@ -1,6 +1,7 @@
 import { animate, motion, useMotionValue, useTransform, type PanInfo } from "framer-motion";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Cover } from "../components/Cover";
+import { Icon } from "../components/Icon";
 import { RatingPicker } from "../components/RatingPicker";
 import { Sheet } from "../components/Sheet";
 import { useStore } from "../lib/store";
@@ -85,25 +86,29 @@ export function Swipe() {
 
   return (
     <section className="deslizar">
-      <header className="barra">
-        <h1>Antes de 2021</h1>
-        <p className="sub">¿Lo has {verbo(tipo)}? Desliza la carta.</p>
+      <header className="cabecera compacta">
+        <p className="eyebrow">Antes de 2021</p>
+        <h1>¿Lo has <em>{verbo(tipo)}</em>?</h1>
       </header>
 
       <div className="segmentado ancho">
         {(Object.keys(CUOTA) as TipoMazo[]).map((t) => (
           <button key={t} className={tipo === t ? "on" : ""} onClick={() => setTipo(t)}>
-            {tipoInfo(t).icono} {Math.min(cuota[t], CUOTA[t])}/{CUOTA[t]}
+            {tipoInfo(t).plural}<span className="contador">{Math.min(cuota[t], CUOTA[t])}/{CUOTA[t]}</span>
           </button>
         ))}
       </div>
 
+      <div className="pie-mazo">
+        <button className="enlace con-icono" disabled={!deshacer} onClick={onDeshacer}><Icon name="deshacer" size={16} />Deshacer</button>
+        <span>{restantes} por descubrir</span>
+      </div>
       <div className="mazo">
         {!pool ? (
           <p className="vacio">Cargando…</p>
         ) : hecho ? (
           <div className="fin-dia">
-            <p className="grande">🎉 ¡Hecho por hoy!</p>
+            <p className="grande">Hecho por hoy.</p>
             <p>Mañana tendrás {CUOTA[tipo]} {tipoInfo(tipo).plural.toLowerCase()} más.</p>
             <button className="btn" onClick={() => setExtra(true)}>Seguir un poco más</button>
           </div>
@@ -119,17 +124,13 @@ export function Swipe() {
 
       {pool && !hecho && cola[0] && (
         <div className="acciones">
-          <button className="accion izq" onClick={() => decidir(cola[0], "izq")} aria-label="No lo he visto">✕<small>No</small></button>
-          <button className="accion abajo" onClick={() => decidir(cola[0], "abajo")} aria-label="Lo quiero ver">＋<small>Pendiente</small></button>
-          <button className="accion arriba" onClick={() => decidir(cola[0], "arriba")} aria-label="Visto, no lo recuerdo">?<small>No recuerdo</small></button>
-          <button className="accion der" onClick={() => decidir(cola[0], "der")} aria-label="Lo he visto: poner nota">★<small>Nota</small></button>
+          <button className="accion izq" onClick={() => decidir(cola[0], "izq")} aria-label="No lo he visto"><Icon name="no" size={22} /><small>No</small></button>
+          <button className="accion abajo" onClick={() => decidir(cola[0], "abajo")} aria-label="Lo quiero ver"><Icon name="pendiente" size={22} /><small>Pendiente</small></button>
+          <button className="accion arriba" onClick={() => decidir(cola[0], "arriba")} aria-label="Visto, no lo recuerdo"><Icon name="duda" size={22} /><small>No recuerdo</small></button>
+          <button className="accion der" onClick={() => decidir(cola[0], "der")} aria-label="Lo he visto: poner nota"><Icon name="nota" size={22} /><small>Nota</small></button>
         </div>
       )}
 
-      <div className="pie-mazo">
-        <button className="enlace" disabled={!deshacer} onClick={onDeshacer}>↶ Deshacer</button>
-        <span>{restantes} por descubrir</span>
-      </div>
 
       <Sheet open={!!puntuando} onClose={() => setPuntuando(null)} title={puntuando ? `¿Qué nota le das a «${puntuando.t}»?` : ""}>
         {puntuando && (
@@ -194,7 +195,7 @@ function CartaDeslizable({ carta, tipo, arriba, profundidad, onDecidir }: {
       {arriba && (
         <>
           <motion.span className="sello izq" style={{ opacity: oIzq }}>NO</motion.span>
-          <motion.span className="sello der" style={{ opacity: oDer }}>NOTA ★</motion.span>
+          <motion.span className="sello der" style={{ opacity: oDer }}>NOTA</motion.span>
           <motion.span className="sello arriba" style={{ opacity: oArr }}>NO RECUERDO</motion.span>
           <motion.span className="sello abajo" style={{ opacity: oAba }}>PENDIENTE</motion.span>
         </>

@@ -6,7 +6,7 @@ export function Cover({ src, title, type, className = "" }: { src: string | null
   if (!src || fallo) {
     return (
       <div className={`cover cover-vacia ${className}`} aria-label={title}>
-        <span className="cover-icono">{tipoInfo(type).icono}</span>
+        <span className="cover-tipo">{tipoInfo(type).nombre}</span>
         <span className="cover-titulo">{title}</span>
       </div>
     );

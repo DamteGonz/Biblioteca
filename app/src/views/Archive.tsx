@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Cover } from "../components/Cover";
+import { Icon } from "../components/Icon";
 import { NotaBadge } from "../components/RatingPicker";
 import { useStore } from "../lib/store";
 import { AÑOS, ESTADOS, TIPOS, notaEnAño, type Estado, type Item, type Tipo } from "../lib/types";
@@ -52,16 +53,20 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
 
   return (
     <section className="archivo">
-      <header className="barra">
-        <h1>Mi archivo</h1>
-        <input className="buscar" type="search" placeholder="Buscar…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Buscar" />
+      <header className="cabecera">
+        <p className="eyebrow">Biblioteca personal</p>
+        <h1>Archivo<sup>{lista.length}</sup></h1>
+        <label className="buscar">
+          <Icon name="buscar" size={18} />
+          <input type="search" placeholder="Buscar un título" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Buscar" />
+        </label>
       </header>
 
       <div className="chips" role="tablist" aria-label="Tipo">
         <button className={`chip ${tipo === "todo" ? "on" : ""}`} onClick={() => setTipo("todo")}>Todo</button>
         {TIPOS.map((t) => (
           <button key={t.id} className={`chip ${tipo === t.id ? "on" : ""}`} onClick={() => setTipo(t.id)}>
-            {t.icono} {t.plural}
+            {t.plural}
           </button>
         ))}
       </div>
@@ -89,8 +94,8 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
       </div>
 
       <p className="resumen-lista">
-        {lista.length} {lista.length === 1 ? "título" : "títulos"}
-        {media && filtro !== "pendientes" && <> · media <strong>{media}</strong></>}
+        <span>{lista.length} {lista.length === 1 ? "título" : "títulos"}</span>
+        {media && filtro !== "pendientes" && <span>Media <strong>{media}</strong></span>}
       </p>
 
       {lista.length === 0 ? (

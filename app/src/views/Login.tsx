@@ -30,9 +30,9 @@ export function Login() {
 
   return (
     <main className="login">
-      <img src={`${import.meta.env.BASE_URL}icon.svg`} alt="" width={88} height={88} />
-      <h1>Biblioteca</h1>
-      <p className="sub">Todo lo que has visto, jugado y leído.</p>
+      <p className="eyebrow">Archivo personal · desde 2021</p>
+      <h1 className="marca">Biblio<em>teca</em></h1>
+      <p className="sub">Todo lo que he visto, jugado y leído. Con nota.</p>
       <form onSubmit={enviar} className="login-form">
         <label>
           Email

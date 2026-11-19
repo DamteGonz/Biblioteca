@@ -13,8 +13,8 @@ export default defineConfig({
         name: "Biblioteca",
         short_name: "Biblioteca",
         description: "Mi archivo de películas, series, juegos y libros",
-        theme_color: "#0f1115",
-        background_color: "#0f1115",
+        theme_color: "#0a0a0b",
+        background_color: "#0a0a0b",
         display: "standalone",
         orientation: "portrait",
         icons: [
@@ -24,9 +24,10 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ["**/*.{js,css,html,svg,png}"],
+        globPatterns: ["**/*.{js,css,html,svg,png,woff2}"],
         runtimeCaching: [
           { urlPattern: /\/data\/.*\.json$/, handler: "StaleWhileRevalidate", options: { cacheName: "datos" } },
+          { urlPattern: /^https:\/\/fonts\.(googleapis|gstatic)\.com\//, handler: "CacheFirst", options: { cacheName: "fuentes" } },
           {
             urlPattern: /^https:\/\/(image\.tmdb\.org|images\.igdb\.com|covers\.openlibrary\.org)\//,
             handler: "CacheFirst",

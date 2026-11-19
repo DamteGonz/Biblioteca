@@ -39,12 +39,28 @@ export interface Carta {
   c: string | null;
 }
 
-export const TIPOS: { id: Tipo; nombre: string; plural: string; icono: string }[] = [
-  { id: "movie", nombre: "Película", plural: "Películas", icono: "🎬" },
-  { id: "series", nombre: "Serie", plural: "Series", icono: "📺" },
-  { id: "game", nombre: "Juego", plural: "Juegos", icono: "🎮" },
-  { id: "book", nombre: "Libro", plural: "Libros", icono: "📚" },
+export const TIPOS: { id: Tipo; nombre: string; plural: string }[] = [
+  { id: "movie", nombre: "Película", plural: "Películas" },
+  { id: "series", nombre: "Serie", plural: "Series" },
+  { id: "game", nombre: "Juego", plural: "Juegos" },
+  { id: "book", nombre: "Libro", plural: "Libros" },
 ];
+
+/**
+ * Escala de color de las notas (dos tonos por color):
+ * 0–4 rojo · 5–6 naranja · 7–8 amarillo · 9–9,5 verde · 10 estrella celeste.
+ */
+export function escalaNota(n: number): { bg: string; fg: string; nivel: string } {
+  if (n >= 10) return { bg: "#7cc8f2", fg: "#06121a", nivel: "diez" };
+  if (n >= 9.5) return { bg: "#5bd88a", fg: "#04140a", nivel: "verde-claro" };
+  if (n >= 9) return { bg: "#22a45d", fg: "#f3fff7", nivel: "verde" };
+  if (n >= 8) return { bg: "#f5d64a", fg: "#1c1600", nivel: "amarillo-claro" };
+  if (n >= 7) return { bg: "#d9a514", fg: "#1c1400", nivel: "amarillo" };
+  if (n >= 6) return { bg: "#f59a4a", fg: "#1f0d00", nivel: "naranja-claro" };
+  if (n >= 5) return { bg: "#df6a1c", fg: "#fff6ef", nivel: "naranja" };
+  if (n >= 2.5) return { bg: "#e5484d", fg: "#fff4f4", nivel: "rojo-claro" };
+  return { bg: "#a3262b", fg: "#fff0f0", nivel: "rojo" };
+}
 
 export const ESTADOS: Record<Estado, string> = {
   visto: "Visto",

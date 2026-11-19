@@ -1,4 +1,5 @@
 import { useEffect, type ReactNode } from "react";
+import { Icon } from "./Icon";
 
 /** Panel que sube desde abajo (en escritorio, ventana centrada). */
 export function Sheet({ open, onClose, title, children }: { open: boolean; onClose: () => void; title?: string; children: ReactNode }) {
@@ -19,7 +20,7 @@ export function Sheet({ open, onClose, title, children }: { open: boolean; onClo
         <div className="sheet-cabecera">
           <span className="sheet-asa" />
           {title && <h2>{title}</h2>}
-          <button className="icono-btn cerrar" onClick={onClose} aria-label="Cerrar">✕</button>
+          <button className="icono-btn cerrar" onClick={onClose} aria-label="Cerrar"><Icon name="cerrar" size={18} /></button>
         </div>
         <div className="sheet-cuerpo">{children}</div>
       </div>

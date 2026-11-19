@@ -513,9 +513,9 @@
       "rating": null
     },
     {
-      "id": "game-doom-ii",
+      "id": "game-doom-ii-1994",
       "type": "game",
-      "title": "Doom II",
+      "title": "Doom II (1994)",
       "entries": [
         {
           "year": 2026,
@@ -1597,9 +1597,9 @@
       "rating": 8.5
     },
     {
-      "id": "game-resident-evil-4",
+      "id": "game-resident-evil-4-2023",
       "type": "game",
-      "title": "Resident Evil 4",
+      "title": "Resident Evil 4 (2023)",
       "entries": [
         {
           "year": 2026,
@@ -2391,9 +2391,9 @@
       "rating": 8.0
     },
     {
-      "id": "game-tomb-raider",
+      "id": "game-tomb-raider-i-iii-remastered",
       "type": "game",
-      "title": "Tomb Raider",
+      "title": "Tomb Raider I-III Remastered",
       "entries": [
         {
           "year": 2026,

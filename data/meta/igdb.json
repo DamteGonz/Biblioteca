@@ -1275,24 +1275,6 @@
   "parent": "Lies of P",
   "exacto": true
  },
- "game-lords-of-the-fallen-2023": {
-  "igdbId": 4847,
-  "title": "Lords of the Fallen",
-  "year": 2014,
-  "cover": "co1nzt",
-  "votes": 179,
-  "genres": [
-   "Role-playing (RPG)",
-   "Hack and slash/Beat 'em up"
-  ],
-  "platforms": [
-   "PS4",
-   "PC",
-   "XONE"
-  ],
-  "parent": null,
-  "exacto": true
- },
  "game-mafia-the-old-country": {
   "igdbId": 314276,
   "title": "Mafia: The Old Country",

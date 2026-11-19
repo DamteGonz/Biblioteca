@@ -61,12 +61,17 @@ def resumen(x):
 
 
 def buscar(title):
-    nombre, _ = split_title(title)
-    seguro = nombre.replace('"', "")
-    res = q("games", f'search "{seguro}"; {CAMPOS} where version_parent = null; limit 10;')
+    nombre, year = split_title(title)
+    res = None
+    for texto in (nombre.replace('"', ""), norm(nombre)):  # 2º intento: sin acentos ni símbolos
+        res = q("games", f'search "{texto}"; {CAMPOS} where version_parent = null; limit 10;')
+        if res:
+            break
     if not res:
         return None
     exactos = [x for x in res if norm(x["name"]) == norm(nombre)]
+    if year:
+        exactos = [x for x in exactos if resumen(x)["year"] == year] or exactos
     elegido = max(exactos, key=lambda x: x.get("total_rating_count", 0)) if exactos else res[0]
     out = resumen(elegido)
     out["exacto"] = bool(exactos)
@@ -76,6 +81,8 @@ def buscar(title):
 def enriquecer():
     items = load("biblioteca.json")["items"]
     meta = load("meta/igdb.json", {})
+    ids = {it["id"] for it in items}
+    meta = {k: v for k, v in meta.items() if k in ids and v}  # quita huérfanos y fallidos
     for it in items:
         if it["type"] != "game" or it.get("hackrom") or it["id"] in meta:
             continue

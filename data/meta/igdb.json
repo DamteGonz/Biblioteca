@@ -627,26 +627,6 @@
   "parent": null,
   "exacto": true
  },
- "game-doom-ii": {
-  "igdbId": 313164,
-  "title": "Doom II",
-  "year": 2024,
-  "cover": "co8noe",
-  "votes": 7,
-  "genres": [
-   "Shooter"
-  ],
-  "platforms": [
-   "Series X|S",
-   "PS4",
-   "PC",
-   "PS5",
-   "XONE",
-   "Switch"
-  ],
-  "parent": "Doom II: Hell on Earth",
-  "exacto": true
- },
  "game-dragon-s-dogma-2": {
   "igdbId": 115060,
   "title": "Dragon's Dogma II",
@@ -884,7 +864,6 @@
   "parent": null,
   "exacto": true
  },
- "game-god-of-war-ragnar-k-valhalla": null,
  "game-gordian-quest": {
   "igdbId": 125048,
   "title": "Gordian Quest",
@@ -1806,22 +1785,6 @@
   "parent": "Resident Evil 3: Nemesis",
   "exacto": true
  },
- "game-resident-evil-4": {
-  "igdbId": 974,
-  "title": "Resident Evil 4",
-  "year": 2005,
-  "cover": "co2wk8",
-  "votes": 1704,
-  "genres": [
-   "Shooter",
-   "Adventure"
-  ],
-  "platforms": [
-   "NGC"
-  ],
-  "parent": null,
-  "exacto": true
- },
  "game-resident-evil-7-biohazard": {
   "igdbId": 19562,
   "title": "Resident Evil 7: Biohazard",
@@ -2696,30 +2659,6 @@
   "parent": null,
   "exacto": true
  },
- "game-tomb-raider": {
-  "igdbId": 1164,
-  "title": "Tomb Raider",
-  "year": 2013,
-  "cover": "co1rbu",
-  "votes": 2411,
-  "genres": [
-   "Shooter",
-   "Platform",
-   "Puzzle",
-   "Adventure"
-  ],
-  "platforms": [
-   "PS3",
-   "Linux",
-   "Android",
-   "PC",
-   "iOS",
-   "Mac",
-   "X360"
-  ],
-  "parent": null,
-  "exacto": true
- },
  "game-tunic": {
   "igdbId": 23733,
   "title": "Tunic",
@@ -2832,5 +2771,93 @@
   ],
   "parent": null,
   "exacto": true
+ },
+ "game-doom-ii-1994": {
+  "igdbId": 313164,
+  "title": "Doom II",
+  "year": 2024,
+  "cover": "co8noe",
+  "votes": 7,
+  "genres": [
+   "Shooter"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "PC",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": "Doom II: Hell on Earth",
+  "exacto": true
+ },
+ "game-god-of-war-ragnar-k-valhalla": null,
+ "game-lords-of-the-fallen-2023": {
+  "igdbId": 21593,
+  "title": "Lords of the Fallen",
+  "year": 2023,
+  "cover": "co72u9",
+  "votes": 96,
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PC",
+   "PS5"
+  ],
+  "parent": null,
+  "exacto": true
+ },
+ "game-resident-evil-4-2023": {
+  "igdbId": 132181,
+  "title": "Resident Evil 4",
+  "year": 2023,
+  "cover": "co6bo0",
+  "votes": 710,
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "PC",
+   "iOS",
+   "PS5",
+   "Mac"
+  ],
+  "parent": "Resident Evil 4",
+  "exacto": true
+ },
+ "game-tomb-raider-i-iii-remastered": {
+  "igdbId": 266683,
+  "title": "Tomb Raider I•II•III Remastered",
+  "year": 2024,
+  "cover": "co8xte",
+  "votes": 42,
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Strategy",
+   "Adventure"
+  ],
+  "platforms": [
+   "Series X|S",
+   "PS4",
+   "Switch 2",
+   "Android",
+   "PC",
+   "iOS",
+   "PS5",
+   "XONE",
+   "Switch"
+  ],
+  "parent": null,
+  "exacto": false
  }
 }

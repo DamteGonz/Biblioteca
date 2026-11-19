@@ -3,23 +3,10 @@ import { Cover } from "../components/Cover";
 import { RatingPicker } from "../components/RatingPicker";
 import { Sheet } from "../components/Sheet";
 import { useStore } from "../lib/store";
-import { AÑOS, AÑO_ACTUAL, TIPOS, verbo, type Carta, type Estado, type Tipo } from "../lib/types";
+import { buscar, type Resultado } from "../lib/buscar";
+import { AÑOS, AÑO_ACTUAL, TIPOS, verbo, type Estado, type Tipo } from "../lib/types";
 
-interface Resultado extends Carta { autor?: string }
-
-async function buscarLibros(q: string): Promise<Resultado[]> {
-  const r = await fetch(`https://openlibrary.org/search.json?q=${encodeURIComponent(q)}&limit=12&fields=key,title,author_name,first_publish_year,cover_i`);
-  const d = await r.json();
-  return d.docs.map((x: { key: string; title: string; author_name?: string[]; first_publish_year?: number; cover_i?: number }) => ({
-    k: `ol:${x.key}`,
-    t: x.title,
-    y: x.first_publish_year ?? null,
-    c: x.cover_i ? `https://covers.openlibrary.org/b/id/${x.cover_i}-M.jpg` : null,
-    autor: x.author_name?.[0],
-  }));
-}
-
-const norm = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const norm = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
 export function AddItem({ open, onClose }: { open: boolean; onClose: () => void }) {
   const { guardar, mazo, items } = useStore();
@@ -31,6 +18,7 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
   const [estado, setEstado] = useState<Estado>("visto");
   const [año, setAño] = useState<number | "pre">(AÑO_ACTUAL);
   const [guardando, setGuardando] = useState(false);
+  const [buscando, setBuscando] = useState(false);
 
   const yaTengo = useMemo(() => new Set(items.map((i) => i.key)), [items]);
 
@@ -43,12 +31,17 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
     if (texto.length < 2) { setRes([]); return; }
     let vivo = true;
     const t = setTimeout(async () => {
+      if (vivo) setBuscando(true);
       try {
-        const r = tipo === "book"
-          ? await buscarLibros(texto)
-          : (await mazo(tipo)).filter((c) => norm(c.t).includes(norm(texto))).slice(0, 12);
+        const r = await buscar(tipo, texto);
         if (vivo) setRes(r);
-      } catch { if (vivo) setRes([]); }
+      } catch {
+        // Sin conexión con el buscador: tiramos de los mazos locales.
+        const local = tipo === "book" ? [] : (await mazo(tipo)).filter((c) => norm(c.t).includes(norm(texto))).slice(0, 12);
+        if (vivo) setRes(local);
+      } finally {
+        if (vivo) setBuscando(false);
+      }
     }, 300);
     return () => { vivo = false; clearTimeout(t); };
   }, [q, tipo, mazo]);
@@ -61,6 +54,7 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
       key: carta.k,
       type: tipo,
       title: carta.t,
+      original_title: elegido?.o ?? null,
       cover: carta.c,
       release_year: carta.y,
       status: estado,
@@ -94,7 +88,7 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
                   <Cover src={r.c} title={r.t} type={tipo} className="mini" />
                   <span>
                     <strong>{r.t}</strong>
-                    <small>{[r.y, r.autor].filter(Boolean).join(" · ")}{yaTengo.has(r.k) && " · ya está en tu archivo"}</small>
+                    <small>{[r.y, r.o, r.autor].filter(Boolean).join(" · ")}{yaTengo.has(r.k) && " · ya está en tu archivo"}</small>
                   </span>
                 </button>
               </li>
@@ -105,7 +99,8 @@ export function AddItem({ open, onClose }: { open: boolean; onClose: () => void 
               Añadir «{q.trim()}» a mano
             </button>
           )}
-          {tipo !== "book" && <p className="ayuda">Busca entre los títulos más conocidos de antes de 2021. Si no sale, añádelo a mano y pon la portada desde su ficha.</p>}
+          {buscando && <p className="ayuda">Buscando…</p>}
+          {!buscando && q.trim().length >= 2 && res.length === 0 && <p className="ayuda">Sin resultados. Puedes añadirlo a mano.</p>}
         </>
       ) : (
         <div className="ficha">

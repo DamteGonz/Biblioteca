@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Cover } from "../components/Cover";
 import { NotaBadge, RatingPicker } from "../components/RatingPicker";
 import { Sheet } from "../components/Sheet";
+import { buscar, type Resultado } from "../lib/buscar";
 import { useStore } from "../lib/store";
 import { AÑOS, AÑO_ACTUAL, ESTADOS, fmtNota, tipoInfo, verbo, type Estado, type Item } from "../lib/types";
 
@@ -14,12 +15,27 @@ export function ItemSheet({ item, onClose }: { item: Item | null; onClose: () =>
   const [añoReview, setAñoReview] = useState(AÑO_ACTUAL);
   const [editCover, setEditCover] = useState(false);
   const [coverUrl, setCoverUrl] = useState("");
+  const [qCover, setQCover] = useState("");
+  const [portadas, setPortadas] = useState<Resultado[] | null>(null);
 
   useEffect(() => {
     setReview(null);
     setEditCover(false);
-    setCoverUrl(item?.cover ?? "");
-  }, [item?.id, item?.cover]);
+    setCoverUrl("");
+    setQCover((item?.title ?? "").replace(/\s*\(.*\)\s*$/, ""));
+  }, [item?.id, item?.cover, item?.title]);
+
+  useEffect(() => {
+    if (!editCover || !item || qCover.trim().length < 2) return;
+    let vivo = true;
+    setPortadas(null);
+    const t = setTimeout(() => {
+      buscar(item.type, qCover.trim())
+        .then((r) => vivo && setPortadas(r.filter((x) => x.c)))
+        .catch(() => vivo && setPortadas([]));
+    }, 300);
+    return () => { vivo = false; clearTimeout(t); };
+  }, [editCover, qCover, item]);
 
   if (!actual) return null;
   const it = actual;
@@ -71,10 +87,23 @@ export function ItemSheet({ item, onClose }: { item: Item | null; onClose: () =>
 
         {editCover && (
           <div className="campo">
-            <label>URL de la portada
+            <label>Buscar portada
+              <input type="search" value={qCover} onChange={(e) => setQCover(e.target.value)} />
+            </label>
+            {portadas === null ? <p className="ayuda">Buscando…</p> : portadas.length === 0 ? <p className="ayuda">Sin resultados.</p> : (
+              <div className="portadas">
+                {portadas.map((p) => (
+                  <button key={p.k} className="portada-opcion" onClick={() => { cambiar({ cover: p.c, release_year: p.y ?? it.release_year }); setEditCover(false); }}>
+                    <Cover src={p.c} title={p.t} type={it.type} />
+                    <small>{p.t}{p.y ? ` · ${p.y}` : ""}</small>
+                  </button>
+                ))}
+              </div>
+            )}
+            <label>O pega la URL de una imagen
               <input type="url" value={coverUrl} onChange={(e) => setCoverUrl(e.target.value)} placeholder="https://…" />
             </label>
-            <button className="btn" onClick={() => { cambiar({ cover: coverUrl || null }); setEditCover(false); }}>Guardar portada</button>
+            <button className="btn" disabled={!coverUrl} onClick={() => { cambiar({ cover: coverUrl || null }); setEditCover(false); }}>Guardar URL</button>
           </div>
         )}
 

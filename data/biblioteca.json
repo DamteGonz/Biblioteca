@@ -1,0 +1,4537 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "game-007-first-light",
+      "type": "game",
+      "title": "007 First Light",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "007",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-a-way-out",
+      "type": "game",
+      "title": "A Way Out",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "a way out",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-alan-wake-2",
+      "type": "game",
+      "title": "Alan Wake 2",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Alan Wake",
+          "rating": null
+        }
+      ],
+      "revisar": "¿Alan Wake 1 o 2?",
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-another-door",
+      "type": "game",
+      "title": "Another Door",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "another door",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-astral-ascent",
+      "type": "game",
+      "title": "Astral Ascent",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "ASTRAL ASCENT",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-balatro",
+      "type": "game",
+      "title": "Balatro",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "balatro",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-baldur-s-gate-3",
+      "type": "game",
+      "title": "Baldur's Gate 3",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "BALDUR'S GATE 3",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-black-myth-wukong",
+      "type": "game",
+      "title": "Black Myth: Wukong",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "wukong",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-blasphemous-2",
+      "type": "game",
+      "title": "Blasphemous 2",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "BLASPHEMUS 2",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-bloodborne",
+      "type": "game",
+      "title": "Bloodborne",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "BLOODBORNE",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-blue-prince",
+      "type": "game",
+      "title": "Blue Prince",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "blue prince",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-buckshot-roulette",
+      "type": "game",
+      "title": "Buckshot Roulette",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Duckshot roulette",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-call-of-duty-modern-warfare-4",
+      "type": "game",
+      "title": "Call of Duty: Modern Warfare 4",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "COD MW4",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-castlevania",
+      "type": "game",
+      "title": "Castlevania",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "Castelvania",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-chants-of-sennaar",
+      "type": "game",
+      "title": "Chants of Sennaar",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "chants of senaar",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-clair-obscur-expedition-33",
+      "type": "game",
+      "title": "Clair Obscur: Expedition 33",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Expedition 33",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-cocoon",
+      "type": "game",
+      "title": "Cocoon",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "COCOON",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-cult-of-the-lamb",
+      "type": "game",
+      "title": "Cult of the Lamb",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "cult of lamb",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-cyberpunk-2077",
+      "type": "game",
+      "title": "Cyberpunk 2077",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "cuyberpunk",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-cyberpunk-2077-phantom-liberty",
+      "type": "game",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "PHANTOM Liberty DLC",
+          "rating": 9.0
+        }
+      ],
+      "dlcOf": "Cyberpunk 2077",
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-dark-souls-iii",
+      "type": "game",
+      "title": "Dark Souls III",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "DS3",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-dark-souls-remastered",
+      "type": "game",
+      "title": "Dark Souls Remastered",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "dark souls",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-darkest-dungeon",
+      "type": "game",
+      "title": "Darkest Dungeon",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "DARK DUNGEON",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-death-stranding",
+      "type": "game",
+      "title": "Death Stranding",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "death stranding",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-death-s-door",
+      "type": "game",
+      "title": "Death's Door",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "death door",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-delta-force",
+      "type": "game",
+      "title": "Delta Force",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Delta Force",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-dispatch",
+      "type": "game",
+      "title": "Dispatch",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Dispatch",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-doom-3",
+      "type": "game",
+      "title": "Doom 3",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "DOOM 3",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-doom-ii",
+      "type": "game",
+      "title": "Doom II",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "DOOM 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-doom-the-dark-ages",
+      "type": "game",
+      "title": "Doom: The Dark Ages",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Doom",
+          "rating": 8.5
+        }
+      ],
+      "revisar": "¿Doom (2016), Eternal o The Dark Ages?",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-dragon-s-dogma-2",
+      "type": "game",
+      "title": "Dragon's Dogma 2",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Dragons Dogma 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-dredge",
+      "type": "game",
+      "title": "Dredge",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "dredge",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-elden-ring",
+      "type": "game",
+      "title": "Elden Ring",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "ELDEN RING",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-elden-ring-nightreign",
+      "type": "game",
+      "title": "Elden Ring Nightreign",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "nightreign",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-elden-ring-shadow-of-the-erdtree",
+      "type": "game",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "elden ring dlc",
+          "rating": 10.0
+        }
+      ],
+      "dlcOf": "Elden Ring",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-enshrouded",
+      "type": "game",
+      "title": "Enshrouded",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "enshrouded",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-final-fantasy-vii-rebirth",
+      "type": "game",
+      "title": "Final Fantasy VII Rebirth",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "FF7",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "FF7",
+          "rating": null
+        }
+      ],
+      "revisar": "¿FF7 Rebirth u otro?",
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-final-fantasy-vii-remake",
+      "type": "game",
+      "title": "Final Fantasy VII Remake",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "FFVII REMAKE",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-final-fantasy-xvi",
+      "type": "game",
+      "title": "Final Fantasy XVI",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "FFXVI",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-football-manager-2024",
+      "type": "game",
+      "title": "Football Manager 2024",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Futbol manager",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-gang-of-frogs",
+      "type": "game",
+      "title": "Gang of Frogs",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "gang of frogs",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "game-ghost-of-tsushima",
+      "type": "game",
+      "title": "Ghost of Tsushima",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "ghost of tsushima",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-god-of-war-2018",
+      "type": "game",
+      "title": "God of War (2018)",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "god of war",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-god-of-war-ragnar-k-valhalla",
+      "type": "game",
+      "title": "God of War Ragnarök: Valhalla",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "GOW VALHALA",
+          "rating": 8.5
+        }
+      ],
+      "dlcOf": "God of War Ragnarök",
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-gordian-quest",
+      "type": "game",
+      "title": "Gordian Quest",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Gordian Quest",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "game-hades",
+      "type": "game",
+      "title": "Hades",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "hades",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-hades-ii",
+      "type": "game",
+      "title": "Hades II",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "hades2",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "HADES 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-half-life-2",
+      "type": "game",
+      "title": "Half-Life 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "HALF LIFE 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-hearthstone",
+      "type": "game",
+      "title": "Hearthstone",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "HS",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-hogwarts-legacy",
+      "type": "game",
+      "title": "Hogwarts Legacy",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "HOGWARTS",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-hollow-knight",
+      "type": "game",
+      "title": "Hollow Knight",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "hollow night",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-icarus",
+      "type": "game",
+      "title": "Icarus",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "icarus",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-indiana-jones-and-the-great-circle",
+      "type": "game",
+      "title": "Indiana Jones and the Great Circle",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "indiana jones",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-indiana-jones-and-the-great-circle-the-order-of-giants",
+      "type": "game",
+      "title": "Indiana Jones and the Great Circle: The Order of Giants",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "indiana jones dlc",
+          "rating": 9.0
+        }
+      ],
+      "dlcOf": "Indiana Jones and the Great Circle",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-inscryption",
+      "type": "game",
+      "title": "Inscryption",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "inscryption",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-it-takes-two",
+      "type": "game",
+      "title": "It Takes Two",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "It Takes Two",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-kingdom-come-deliverance-ii",
+      "type": "game",
+      "title": "Kingdom Come: Deliverance II",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Kingdom come 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-kingdom-hearts-iii",
+      "type": "game",
+      "title": "Kingdom Hearts III",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "KDH3",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-league-of-legends",
+      "type": "game",
+      "title": "League of Legends",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "LOL",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-lego-star-wars-the-skywalker-saga",
+      "type": "game",
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "lego star wars",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-lies-of-p",
+      "type": "game",
+      "title": "Lies of P",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "lies of p",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-lies-of-p-overture",
+      "type": "game",
+      "title": "Lies of P: Overture",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "lies of p dlc",
+          "rating": 9.0
+        }
+      ],
+      "dlcOf": "Lies of P",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-lords-of-the-fallen-2023",
+      "type": "game",
+      "title": "Lords of the Fallen (2023)",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Lords of the fallen",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-mafia-the-old-country",
+      "type": "game",
+      "title": "Mafia: The Old Country",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "mafia",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-marvel-rivals",
+      "type": "game",
+      "title": "Marvel Rivals",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "marvel rivals",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-marvel-snap",
+      "type": "game",
+      "title": "Marvel Snap",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "marvel snap",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-marvel-s-spider-man",
+      "type": "game",
+      "title": "Marvel's Spider-Man",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "SPIDERMAN",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-marvel-s-spider-man-2",
+      "type": "game",
+      "title": "Marvel's Spider-Man 2",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "SPIDERMAN 2",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "SPIDERMAN 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-marvel-s-spider-man-miles-morales",
+      "type": "game",
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "MILES MORALES",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-megaloot",
+      "type": "game",
+      "title": "Megaloot",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "megaloot",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-message-from-deep-space",
+      "type": "game",
+      "title": "Message from Deep Space",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "message from deep space",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-mewgenics",
+      "type": "game",
+      "title": "Mewgenics",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "Mewgenics",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-moonlighter-2",
+      "type": "game",
+      "title": "Moonlighter 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "moonlighter2",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-nier-automata",
+      "type": "game",
+      "title": "NieR:Automata",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "NIER",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-no-rest-for-the-wicked",
+      "type": "game",
+      "title": "No Rest for the Wicked",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "No rest for the Wicked",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-obesa",
+      "type": "game",
+      "title": "Obesa",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "obesa",
+          "rating": 6.5
+        }
+      ],
+      "revisar": "No sé qué juego es",
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 6.5
+    },
+    {
+      "id": "game-opus-magnum",
+      "type": "game",
+      "title": "Opus Magnum",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "opus magnun",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-order-of-the-sinking-star",
+      "type": "game",
+      "title": "Order of the Sinking Star",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "Order of the Sinking Star",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-outer-wilds",
+      "type": "game",
+      "title": "Outer Wilds",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "OUTER WILDS",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-palworld",
+      "type": "game",
+      "title": "Palworld",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Palm World",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-papers-please",
+      "type": "game",
+      "title": "Papers, Please",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "PAPER PLEASE",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "game-path-of-exile-2",
+      "type": "game",
+      "title": "Path of Exile 2",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "POE2",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-persona-5-royal",
+      "type": "game",
+      "title": "Persona 5 Royal",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "persona5",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-phantom-blade-zero",
+      "type": "game",
+      "title": "Phantom Blade Zero",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "phantom blade 0",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-pok-mon-legends-z-a",
+      "type": "game",
+      "title": "Pokémon Legends: Z-A",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "pokemon Z",
+          "rating": 8.0
+        }
+      ],
+      "revisar": "Está en 2024 pero salió en 2025",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-pok-mon-reminiscencia",
+      "type": "game",
+      "title": "Pokémon Reminiscencia",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Pokemon Reminiscencia",
+          "rating": 5.0
+        }
+      ],
+      "revisar": "¿Qué Pokémon es?",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 5.0
+    },
+    {
+      "id": "game-pok-mon-violet",
+      "type": "game",
+      "title": "Pokémon Violet",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "POKEMON PURPURA",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-pok-mon-violet-the-indigo-disk",
+      "type": "game",
+      "title": "Pokémon Violet: The Indigo Disk",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "POKEMON ANIL",
+          "rating": 9.0
+        }
+      ],
+      "dlcOf": "Pokémon Violet",
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-prince-of-persia-the-lost-crown",
+      "type": "game",
+      "title": "Prince of Persia: The Lost Crown",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Prince of persia",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-prince-of-persia-the-lost-crown-mask-of-darkness",
+      "type": "game",
+      "title": "Prince of Persia: The Lost Crown – Mask of Darkness",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "dlc Prince of persia",
+          "rating": 8.5
+        }
+      ],
+      "dlcOf": "Prince of Persia: The Lost Crown",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-remnant-ii",
+      "type": "game",
+      "title": "Remnant II",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "REMNANT II",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-resident-evil-2",
+      "type": "game",
+      "title": "Resident Evil 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "resident evil 2",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-resident-evil-3",
+      "type": "game",
+      "title": "Resident Evil 3",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "resident evil 3",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-resident-evil-4",
+      "type": "game",
+      "title": "Resident Evil 4",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "resident evil 4",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-resident-evil-7-biohazard",
+      "type": "game",
+      "title": "Resident Evil 7: Biohazard",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "resident evil 7",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-resident-evil-requiem",
+      "type": "game",
+      "title": "Resident Evil Requiem",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "resident evil 9",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-right-and-down",
+      "type": "game",
+      "title": "Right and Down",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Right and Down Dice",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-ruined-king-a-league-of-legends-story",
+      "type": "game",
+      "title": "Ruined King: A League of Legends Story",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "RUINED KING",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-sackboy-a-big-adventure",
+      "type": "game",
+      "title": "Sackboy: A Big Adventure",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "sackboy",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-satisfactory",
+      "type": "game",
+      "title": "Satisfactory",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "satisfactory",
+          "rating": 10.0
+        },
+        {
+          "year": 2022,
+          "excel": "satisfactory",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021,
+        2022
+      ],
+      "status": "visto",
+      "rating": 10
+    },
+    {
+      "id": "game-schedule-i",
+      "type": "game",
+      "title": "Schedule I",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "schedule I",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "Schedule 1",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-sea-of-stars",
+      "type": "game",
+      "title": "Sea of Stars",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Sea of stars",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-sekiro-shadows-die-twice",
+      "type": "game",
+      "title": "Sekiro: Shadows Die Twice",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "sekiro",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-shapez-2",
+      "type": "game",
+      "title": "shapez 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "shapez 2",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "game-shogun-showdown",
+      "type": "game",
+      "title": "Shogun Showdown",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "shogun",
+          "rating": 8.0
+        }
+      ],
+      "revisar": "¿Es el juego Shogun Showdown?",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-slay-the-spire",
+      "type": "game",
+      "title": "Slay the Spire",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "slay the spire",
+          "rating": 10.0
+        },
+        {
+          "year": 2024,
+          "excel": "Slay the spire",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021,
+        2024
+      ],
+      "status": "visto",
+      "rating": 10
+    },
+    {
+      "id": "game-slay-the-spire-2",
+      "type": "game",
+      "title": "Slay the Spire 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "SLAY THE SPIRE 2",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-slime-rancher-2",
+      "type": "game",
+      "title": "Slime Rancher 2",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "slime rancher 2",
+          "rating": 5.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 5.0
+    },
+    {
+      "id": "game-smite-2",
+      "type": "game",
+      "title": "Smite 2",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "SMITE 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-split-fiction",
+      "type": "game",
+      "title": "Split Fiction",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "split fiction",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "SPLIT FICTION",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-stacklands",
+      "type": "game",
+      "title": "Stacklands",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "stackland",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "game-star-wars-jedi-fallen-order",
+      "type": "game",
+      "title": "Star Wars Jedi: Fallen Order",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "star wars jedi 1",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-star-wars-jedi-survivor",
+      "type": "game",
+      "title": "Star Wars Jedi: Survivor",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "STAR WARS jedi 2",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-star-wars-zero-company",
+      "type": "game",
+      "title": "Star Wars Zero Company",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "star wars 0 company",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-super-mario-3d-world-bowser-s-fury",
+      "type": "game",
+      "title": "Super Mario 3D World + Bowser's Fury",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "mario 3d world",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-super-mario-bros-wonder",
+      "type": "game",
+      "title": "Super Mario Bros. Wonder",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "MARIO WONDER",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-super-mario-odyssey",
+      "type": "game",
+      "title": "Super Mario Odyssey",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "mario odyssey",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-sword-of-the-sea",
+      "type": "game",
+      "title": "Sword of the Sea",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Sword of the sea",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-tainted-grail-the-fall-of-avalon",
+      "type": "game",
+      "title": "Tainted Grail: The Fall of Avalon",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "Tainted Grail",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-teamfight-tactics",
+      "type": "game",
+      "title": "Teamfight Tactics",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "tft",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "game-the-alters",
+      "type": "game",
+      "title": "The Alters",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "ALTERS",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-the-bazaar",
+      "type": "game",
+      "title": "The Bazaar",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "the baazar",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-the-big-walk",
+      "type": "game",
+      "title": "The Big Walk",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "big walk",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-blood-of-dawnwalker",
+      "type": "game",
+      "title": "The Blood of Dawnwalker",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "Blood of dawnwalkers",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-dark-queen-of-mortholme",
+      "type": "game",
+      "title": "The Dark Queen of Mortholme",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "The_Dark_Queen_of_Mortholme",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "game-the-first-berserker-khazan",
+      "type": "game",
+      "title": "The First Berserker: Khazan",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Khazan",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-last-flame",
+      "type": "game",
+      "title": "The Last Flame",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "THE LAST FLAME",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-the-last-of-us-part-i",
+      "type": "game",
+      "title": "The Last of Us Part I",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "THE LAST OF US",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-last-of-us-part-ii",
+      "type": "game",
+      "title": "The Last of Us Part II",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "THE LAST OF US 2",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-legend-of-zelda-breath-of-the-wild",
+      "type": "game",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "zelda botw",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-the-legend-of-zelda-echoes-of-wisdom",
+      "type": "game",
+      "title": "The Legend of Zelda: Echoes of Wisdom",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "zelda eow",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-the-legend-of-zelda-ocarina-of-time",
+      "type": "game",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "zelda ocarina of time",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-the-legend-of-zelda-tears-of-the-kingdom",
+      "type": "game",
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "ZELDA totk",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-the-mageseeker-a-league-of-legends-story",
+      "type": "game",
+      "title": "The Mageseeker: A League of Legends Story",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "SYLAS",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-the-talos-principle",
+      "type": "game",
+      "title": "The Talos Principle",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "talos 1",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "talos 1",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-talos-principle-2",
+      "type": "game",
+      "title": "The Talos Principle 2",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "talos 2",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-the-witcher-3-wild-hunt",
+      "type": "game",
+      "title": "The Witcher 3: Wild Hunt",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "witcher 3",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "game-titan-souls",
+      "type": "game",
+      "title": "Titan Souls",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "titan souls",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "game-tomb-raider",
+      "type": "game",
+      "title": "Tomb Raider",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "tom raider",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-tunic",
+      "type": "game",
+      "title": "Tunic",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "TUNIC",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-uncharted-legacy-of-thieves-collection",
+      "type": "game",
+      "title": "Uncharted: Legacy of Thieves Collection",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "uncharted",
+          "rating": 9.0
+        }
+      ],
+      "revisar": "¿Qué Uncharted?",
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "game-v-rising",
+      "type": "game",
+      "title": "V Rising",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "v rising",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "game-viewfinder",
+      "type": "game",
+      "title": "Viewfinder",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "VIEWFINDER",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "game-windblown",
+      "type": "game",
+      "title": "Windblown",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "windblown",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "game-windrose",
+      "type": "game",
+      "title": "Windrose",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "windrose",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-2001-a-space-odyssey",
+      "type": "movie",
+      "title": "2001: A Space Odyssey",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "odisea 2001",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-about-time",
+      "type": "movie",
+      "title": "About Time",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "about time",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "movie-air",
+      "type": "movie",
+      "title": "Air",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "air",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "movie-alphago",
+      "type": "movie",
+      "title": "AlphaGo",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "alphago",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-american-psycho",
+      "type": "movie",
+      "title": "American Psycho",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "american psyco",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-another-round",
+      "type": "movie",
+      "title": "Another Round",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "otra ronda",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-baby-driver",
+      "type": "movie",
+      "title": "Baby Driver",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "baby driver",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-back-to-the-future",
+      "type": "movie",
+      "title": "Back to the Future",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "regreso al futuro",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-back-to-the-future-part-ii",
+      "type": "movie",
+      "title": "Back to the Future Part II",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "regreso futuro 2",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-barbie",
+      "type": "movie",
+      "title": "Barbie",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "barbie",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-black-panther-wakanda-forever",
+      "type": "movie",
+      "title": "Black Panther: Wakanda Forever",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "waknda forevger",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-blade-runner",
+      "type": "movie",
+      "title": "Blade Runner",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "blade runner",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "blade runner",
+          "rating": 8.0
+        }
+      ],
+      "revisar": "¿Blade Runner (1982) o 2049?",
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-bullet-train",
+      "type": "movie",
+      "title": "Bullet Train",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "bullet train",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-casino-royale",
+      "type": "movie",
+      "title": "Casino Royale",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Casino Royal",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-contact",
+      "type": "movie",
+      "title": "Contact",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "contact",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-deadpool-wolverine",
+      "type": "movie",
+      "title": "Deadpool & Wolverine",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "deadpool wolverine",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "movie-die-hard",
+      "type": "movie",
+      "title": "Die Hard",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "die hard",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-doctor-strange-in-the-multiverse-of-madness",
+      "type": "movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "dr strange",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-don-t-look-up",
+      "type": "movie",
+      "title": "Don't Look Up",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "dont look up",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-dune",
+      "type": "movie",
+      "title": "Dune",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Dune",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-dune-part-two",
+      "type": "movie",
+      "title": "Dune: Part Two",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Dune 2",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-dungeons-dragons-honor-among-thieves",
+      "type": "movie",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Dragones y mazmorras",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-dunkirk",
+      "type": "movie",
+      "title": "Dunkirk",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "dunkerke",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-everything-everywhere-all-at-once",
+      "type": "movie",
+      "title": "Everything Everywhere All at Once",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "everyhting everywhere",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-ford-v-ferrari",
+      "type": "movie",
+      "title": "Ford v Ferrari",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Le Mans 66",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-free-guy",
+      "type": "movie",
+      "title": "Free Guy",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "free guy",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "free guy",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-full-moon",
+      "type": "movie",
+      "title": "Full Moon",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Full Moon",
+          "rating": null
+        }
+      ],
+      "revisar": "¿Qué película es?",
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-green-book",
+      "type": "movie",
+      "title": "Green Book",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "green book",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "movie-guardians-of-the-galaxy-vol-3",
+      "type": "movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "Guardianes de la galax",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-hulk",
+      "type": "movie",
+      "title": "Hulk",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Hulk",
+          "rating": 5.0
+        }
+      ],
+      "revisar": "¿Hulk (2003) o El increíble Hulk (2008)?",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 5.0
+    },
+    {
+      "id": "movie-indiana-jones-and-the-dial-of-destiny",
+      "type": "movie",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "indiana jones",
+          "rating": 7.5
+        }
+      ],
+      "revisar": "¿Qué Indiana Jones?",
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-interstellar",
+      "type": "movie",
+      "title": "Interstellar",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "interstellar",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "movie-john-wick",
+      "type": "movie",
+      "title": "John Wick",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "jhon wick",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-jumpers",
+      "type": "movie",
+      "title": "Jumpers",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "jumpers",
+          "rating": 5.0
+        }
+      ],
+      "revisar": "¿Qué película es?",
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 5.0
+    },
+    {
+      "id": "movie-juror-2",
+      "type": "movie",
+      "title": "Juror #2",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Jurado numero 2",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-obsession",
+      "type": "movie",
+      "title": "Obsession",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "obsession",
+          "rating": 8.5
+        }
+      ],
+      "revisar": "¿Qué película es?",
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "movie-one-battle-after-another",
+      "type": "movie",
+      "title": "One Battle After Another",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "una batalla detras de otra",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-oppenheimer",
+      "type": "movie",
+      "title": "Oppenheimer",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Openheimer",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-parasite",
+      "type": "movie",
+      "title": "Parasite",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "parasite",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-power-rangers",
+      "type": "movie",
+      "title": "Power Rangers",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "power rangers",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-project-hail-mary",
+      "type": "movie",
+      "title": "Project Hail Mary",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "project hail marry",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "movie-rear-window",
+      "type": "movie",
+      "title": "Rear Window",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "ventana indiscreta",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-road-house-2024",
+      "type": "movie",
+      "title": "Road House (2024)",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Road House",
+          "rating": 6.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "visto",
+      "rating": 6.5
+    },
+    {
+      "id": "movie-rocky",
+      "type": "movie",
+      "title": "Rocky",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "rocky",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-rocky-iv",
+      "type": "movie",
+      "title": "Rocky IV",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "rocky 4",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-seven-samurai",
+      "type": "movie",
+      "title": "Seven Samurai",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "7 samurais",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "movie-sinners",
+      "type": "movie",
+      "title": "Sinners",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "sinners",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "movie-speak-no-evil",
+      "type": "movie",
+      "title": "Speak No Evil",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "speak no evil",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-spider-man-across-the-spider-verse",
+      "type": "movie",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "Spiderman 2",
+          "rating": 9.5
+        }
+      ],
+      "revisar": "¿Es Cruzando el Multiverso?",
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "movie-spider-man-no-way-home",
+      "type": "movie",
+      "title": "Spider-Man: No Way Home",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "spiderman no way home",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-tetris",
+      "type": "movie",
+      "title": "Tetris",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "tetris",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "movie-the-gentlemen",
+      "type": "movie",
+      "title": "The Gentlemen",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "the gentleman",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-irishman",
+      "type": "movie",
+      "title": "The Irishman",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "el irlandes",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-man-from-earth",
+      "type": "movie",
+      "title": "The Man from Earth",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "the man of earth",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "man on earth",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-mule",
+      "type": "movie",
+      "title": "The Mule",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "mule",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-odyssey-2026",
+      "type": "movie",
+      "title": "The Odyssey (2026)",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "odisea",
+          "rating": 9.5
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "movie-the-super-mario-bros-movie",
+      "type": "movie",
+      "title": "The Super Mario Bros. Movie",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "mario",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-untouchables",
+      "type": "movie",
+      "title": "The Untouchables",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "LOS INTOCABLES DE ELIOT NEST",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-the-witcher-sirens-of-the-deep",
+      "type": "movie",
+      "title": "The Witcher: Sirens of the Deep",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "witcher",
+          "rating": 6.0
+        }
+      ],
+      "revisar": "¿Sirenas de las profundidades?",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "movie-thor-love-and-thunder",
+      "type": "movie",
+      "title": "Thor: Love and Thunder",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "thor love and thunder",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "movie-training-day",
+      "type": "movie",
+      "title": "Training Day",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "dia de entreno",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-uncut-gems",
+      "type": "movie",
+      "title": "Uncut Gems",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "diamantes en bruto",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "movie-venom-let-there-be-carnage",
+      "type": "movie",
+      "title": "Venom: Let There Be Carnage",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "venom",
+          "rating": 7.0
+        }
+      ],
+      "revisar": "¿Venom 1 o 2?",
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "series-3-body-problem",
+      "type": "series",
+      "title": "3 Body Problem",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "El problema de los 3 cuerpos",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "en_emision",
+      "rating": 8.5
+    },
+    {
+      "id": "series-a-knight-of-the-seven-kingdoms",
+      "type": "series",
+      "title": "A Knight of the Seven Kingdoms",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "un caballero de los 7 reinos",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "en_emision",
+      "rating": 9
+    },
+    {
+      "id": "series-adolescence",
+      "type": "series",
+      "title": "Adolescence",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "adolescence",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "series-ahsoka",
+      "type": "series",
+      "title": "Ahsoka",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "ahsoka",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "series-alice-in-borderland",
+      "type": "series",
+      "title": "Alice in Borderland",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "Alice in borderland",
+          "rating": 7.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.5
+    },
+    {
+      "id": "series-arcane",
+      "type": "series",
+      "title": "Arcane",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "arcane",
+          "rating": 9.0
+        },
+        {
+          "year": 2024,
+          "excel": "arcane",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2022,
+        2024
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "series-attack-on-titan",
+      "type": "series",
+      "title": "Attack on Titan",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "atack on titan",
+          "rating": 10.0
+        }
+      ],
+      "anime": true,
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "series-bad-guy",
+      "type": "series",
+      "title": "Bad Guy",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "BAD GUY",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "BAD GUY",
+          "rating": null
+        }
+      ],
+      "revisar": "¿Qué serie es?",
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-better-call-saul",
+      "type": "series",
+      "title": "Better Call Saul",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "better call saul",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "series-black-mirror",
+      "type": "series",
+      "title": "Black Mirror",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "black mirror",
+          "rating": 9.0
+        },
+        {
+          "year": 2025,
+          "excel": "black mirror 6",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2023,
+        2025
+      ],
+      "status": "visto",
+      "rating": null,
+      "preguntarNotaTotal": true
+    },
+    {
+      "id": "series-blue-eye-samurai",
+      "type": "series",
+      "title": "Blue Eye Samurai",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "BLUE EYES SAMURAI",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "blue eyes samurai",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "blue eyes samurai",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-cyberpunk-edgerunners",
+      "type": "series",
+      "title": "Cyberpunk: Edgerunners",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "cyberpunk edgerunners",
+          "rating": 9.5
+        }
+      ],
+      "anime": true,
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 9.5
+    },
+    {
+      "id": "series-dark",
+      "type": "series",
+      "title": "Dark",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "dark",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "series-dr-stone",
+      "type": "series",
+      "title": "Dr. Stone",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "dr stone",
+          "rating": null
+        }
+      ],
+      "anime": true,
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-fallout",
+      "type": "series",
+      "title": "Fallout",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "fallout",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "FALLOUT",
+          "rating": 8.0
+        },
+        {
+          "year": 2026,
+          "excel": "fallout 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "en_curso",
+      "rating": 8.0
+    },
+    {
+      "id": "series-gen-v",
+      "type": "series",
+      "title": "Gen V",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "V gen",
+          "rating": 9.0
+        },
+        {
+          "year": 2026,
+          "excel": "Gen V",
+          "rating": null
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "en_curso",
+      "rating": 9.0
+    },
+    {
+      "id": "series-gomorrah",
+      "type": "series",
+      "title": "Gomorrah",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "gomorra",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-guillermo-del-toro-s-cabinet-of-curiosities",
+      "type": "series",
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "el gabinete de las curiosidades",
+          "rating": 8.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 8.0
+    },
+    {
+      "id": "series-house-of-the-dragon",
+      "type": "series",
+      "title": "House of the Dragon",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "house of dracon",
+          "rating": null
+        },
+        {
+          "year": 2024,
+          "excel": "house of the dracon",
+          "rating": 7.5
+        },
+        {
+          "year": 2026,
+          "excel": "house of dracons",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024
+      ],
+      "status": "en_emision",
+      "rating": 8.5
+    },
+    {
+      "id": "series-hunter-x-hunter",
+      "type": "series",
+      "title": "Hunter x Hunter",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "HXH",
+          "rating": null
+        }
+      ],
+      "anime": true,
+      "years": [
+        2024
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-invincible",
+      "type": "series",
+      "title": "Invincible",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Invencible",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "invencible",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "invencible",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-loki",
+      "type": "series",
+      "title": "Loki",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "loki",
+          "rating": 6.0
+        },
+        {
+          "year": 2024,
+          "excel": "Loki",
+          "rating": null
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "en_curso",
+      "rating": 6.0
+    },
+    {
+      "id": "series-love-death-robots",
+      "type": "series",
+      "title": "Love, Death & Robots",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "love and robots",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "love and robots",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-naruto",
+      "type": "series",
+      "title": "Naruto",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "naruto",
+          "rating": 9.0
+        }
+      ],
+      "anime": true,
+      "years": [
+        2021
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "series-obi-wan-kenobi",
+      "type": "series",
+      "title": "Obi-Wan Kenobi",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "obi wan",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "series-peaky-blinders",
+      "type": "series",
+      "title": "Peaky Blinders",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "peaky blinders",
+          "rating": 10.0
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "visto",
+      "rating": 10.0
+    },
+    {
+      "id": "series-pluribus",
+      "type": "series",
+      "title": "Pluribus",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "pluribus",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "pluribus",
+          "rating": null
+        }
+      ],
+      "years": [
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-rafa-nadal",
+      "type": "series",
+      "title": "Rafa Nadal",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "rafa nadal",
+          "rating": 9.0
+        }
+      ],
+      "revisar": "¿Nombre exacto del documental?",
+      "years": [
+        2026
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "series-rick-and-morty",
+      "type": "series",
+      "title": "Rick and Morty",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "rick e morty",
+          "rating": 9.0
+        },
+        {
+          "year": 2022,
+          "excel": "rick e morty",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2021,
+        2022
+      ],
+      "status": "visto",
+      "rating": 9.0
+    },
+    {
+      "id": "series-secret-level",
+      "type": "series",
+      "title": "Secret Level",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "secret lvl",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "next lvl",
+          "rating": 7.0
+        }
+      ],
+      "revisar": "¿'next lvl' es Secret Level?",
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "series-sh-gun",
+      "type": "series",
+      "title": "Shōgun",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "Shogun",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "SHOGUN",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "series-spider-noir",
+      "type": "series",
+      "title": "Spider-Noir",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "spider noir",
+          "rating": null
+        }
+      ],
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-squid-game",
+      "type": "series",
+      "title": "Squid Game",
+      "entries": [
+        {
+          "year": 2025,
+          "excel": "SQUID GAMES",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2025
+      ],
+      "status": "visto",
+      "rating": 8.5
+    },
+    {
+      "id": "series-suburra-blood-on-rome",
+      "type": "series",
+      "title": "Suburra: Blood on Rome",
+      "entries": [
+        {
+          "year": 2024,
+          "excel": "suburra",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "SUBURRA",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "SUBURRA",
+          "rating": null
+        }
+      ],
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-the-book-of-boba-fett",
+      "type": "series",
+      "title": "The Book of Boba Fett",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "boba fet",
+          "rating": 6.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 6.0
+    },
+    {
+      "id": "series-the-boys",
+      "type": "series",
+      "title": "The Boys",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "the boys",
+          "rating": null
+        },
+        {
+          "year": 2024,
+          "excel": "the boys",
+          "rating": 8.5
+        },
+        {
+          "year": 2026,
+          "excel": "The boys 5",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2024,
+        2026
+      ],
+      "status": "visto",
+      "rating": 7
+    },
+    {
+      "id": "series-the-greatest",
+      "type": "series",
+      "title": "The Greatest",
+      "entries": [
+        {
+          "year": 2026,
+          "excel": "the greatest",
+          "rating": null
+        }
+      ],
+      "revisar": "¿Qué serie es?",
+      "years": [
+        2026
+      ],
+      "status": "pendiente",
+      "rating": null
+    },
+    {
+      "id": "series-the-last-of-us",
+      "type": "series",
+      "title": "The Last of Us",
+      "entries": [
+        {
+          "year": 2023,
+          "excel": "the last of u",
+          "rating": 10.0
+        },
+        {
+          "year": 2025,
+          "excel": "the last of us 2",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "the last of us 2",
+          "rating": null
+        }
+      ],
+      "years": [
+        2023
+      ],
+      "status": "en_curso",
+      "rating": 10.0
+    },
+    {
+      "id": "series-the-mandalorian",
+      "type": "series",
+      "title": "The Mandalorian",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "the mandalorian",
+          "rating": 8.0
+        },
+        {
+          "year": 2023,
+          "excel": "mandalorian3",
+          "rating": 9.0
+        }
+      ],
+      "years": [
+        2021,
+        2023
+      ],
+      "status": "visto",
+      "rating": null,
+      "preguntarNotaTotal": true
+    },
+    {
+      "id": "series-the-wheel-of-time",
+      "type": "series",
+      "title": "The Wheel of Time",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "rueda del tiempo season 1",
+          "rating": 7.0
+        },
+        {
+          "year": 2024,
+          "excel": "la rueda del tiempo",
+          "rating": null
+        },
+        {
+          "year": 2025,
+          "excel": "rueda del tiempo",
+          "rating": null
+        },
+        {
+          "year": 2026,
+          "excel": "rueda del tiempo",
+          "rating": null
+        }
+      ],
+      "years": [
+        2021
+      ],
+      "status": "en_curso",
+      "rating": 7.0
+    },
+    {
+      "id": "series-the-witcher",
+      "type": "series",
+      "title": "The Witcher",
+      "entries": [
+        {
+          "year": 2021,
+          "excel": "the wicther season 1",
+          "rating": 10.0
+        },
+        {
+          "year": 2023,
+          "excel": "the witcher",
+          "rating": 9.0
+        },
+        {
+          "year": 2025,
+          "excel": "the witcher 4",
+          "rating": 8.5
+        }
+      ],
+      "years": [
+        2021,
+        2023,
+        2025
+      ],
+      "status": "visto",
+      "rating": null,
+      "preguntarNotaTotal": true
+    },
+    {
+      "id": "series-the-witcher-blood-origin",
+      "type": "series",
+      "title": "The Witcher: Blood Origin",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "the witcher origenes de sangre",
+          "rating": 7.0
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 7.0
+    },
+    {
+      "id": "series-wandavision",
+      "type": "series",
+      "title": "WandaVision",
+      "entries": [
+        {
+          "year": 2022,
+          "excel": "wanda vision",
+          "rating": 5.5
+        }
+      ],
+      "years": [
+        2022
+      ],
+      "status": "visto",
+      "rating": 5.5
+    }
+  ]
+}

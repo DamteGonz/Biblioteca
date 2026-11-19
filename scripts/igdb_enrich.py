@@ -71,7 +71,8 @@ def buscar(title):
         return None
     exactos = [x for x in res if norm(x["name"]) == norm(nombre)]
     if year:
-        exactos = [x for x in exactos if resumen(x)["year"] == year] or exactos
+        del_año = [x for x in res if resumen(x)["year"] == year]
+        exactos = [x for x in exactos if x in del_año] or del_año[:1] or exactos
     elegido = max(exactos, key=lambda x: x.get("total_rating_count", 0)) if exactos else res[0]
     out = resumen(elegido)
     out["exacto"] = bool(exactos)

@@ -172,7 +172,7 @@ MAP = {
     (G, "zelda ocarina of time"): {"t": "The Legend of Zelda: Ocarina of Time"},
     (G, "order of the sinking star"): {"t": "Order of the Sinking Star"},
     (G, "cod mw4"): {"t": "Call of Duty: Modern Warfare 4"},
-    (G, "castelvania"): {"t": "Castlevania"},
+    (G, "castelvania"): {"t": "Castlevania (2026)"},
     (G, "sackboy"): {"t": "Sackboy: A Big Adventure"},
     (G, "mario 3d world"): {"t": "Super Mario 3D World + Bowser's Fury"},
     (G, "lego star wars"): {"t": "LEGO Star Wars: The Skywalker Saga"},

@@ -1,7 +1,7 @@
 # Despliegue en Netlify: la app vive en app/ y se sirve desde la raíz del dominio.
 [build]
   base = "app"
-  command = "npm run build"
+  command = "npm install --include=dev && npx vite build"
   publish = "dist"
 
 [build.environment]

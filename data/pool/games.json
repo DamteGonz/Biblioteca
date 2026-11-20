@@ -4,7 +4,7 @@
   "title": "Grand Theft Auto V",
   "year": 2013,
   "cover": "co2lbd",
-  "votes": 6073,
+  "votes": 6074,
   "genres": [
    "Shooter",
    "Racing",
@@ -85,7 +85,7 @@
   "title": "Grand Theft Auto: San Andreas",
   "year": 2004,
   "cover": "co2lb9",
-  "votes": 4136,
+  "votes": 4137,
   "genres": [
    "Shooter",
    "Racing",
@@ -132,7 +132,7 @@
   "title": "Red Dead Redemption 2",
   "year": 2018,
   "cover": "co1q1f",
-  "votes": 3959,
+  "votes": 3960,
   "genres": [
    "Shooter",
    "Role-playing (RPG)",
@@ -151,7 +151,7 @@
   "title": "God of War",
   "year": 2018,
   "cover": "cobkt6",
-  "votes": 3665,
+  "votes": 3666,
   "genres": [
    "Role-playing (RPG)",
    "Hack and slash/Beat 'em up",
@@ -169,7 +169,7 @@
   "title": "The Last of Us",
   "year": 2013,
   "cover": "co1r7f",
-  "votes": 3645,
+  "votes": 3646,
   "genres": [
    "Shooter",
    "Adventure"
@@ -204,7 +204,7 @@
   "title": "Assassin's Creed II",
   "year": 2009,
   "cover": "co1rcf",
-  "votes": 3256,
+  "votes": 3257,
   "genres": [
    "Platform",
    "Adventure"
@@ -242,7 +242,7 @@
   "title": "Grand Theft Auto: Vice City",
   "year": 2002,
   "cover": "co2lbb",
-  "votes": 3203,
+  "votes": 3204,
   "genres": [
    "Shooter",
    "Racing",
@@ -355,7 +355,7 @@
   "title": "Uncharted 4: A Thief's End",
   "year": 2016,
   "cover": "co1r7h",
-  "votes": 2707,
+  "votes": 2708,
   "genres": [
    "Shooter",
    "Adventure"
@@ -425,7 +425,7 @@
   "title": "Horizon Zero Dawn",
   "year": 2017,
   "cover": "co2una",
-  "votes": 2502,
+  "votes": 2503,
   "genres": [
    "Shooter",
    "Role-playing (RPG)",
@@ -443,7 +443,7 @@
   "title": "Fallout: New Vegas",
   "year": 2010,
   "cover": "co1u60",
-  "votes": 2461,
+  "votes": 2462,
   "genres": [
    "Shooter",
    "Role-playing (RPG)"
@@ -541,7 +541,7 @@
   "title": "Marvel's Spider-Man",
   "year": 2018,
   "cover": "co1r77",
-  "votes": 2211,
+  "votes": 2212,
   "genres": [
    "Hack and slash/Beat 'em up",
    "Adventure"
@@ -864,7 +864,7 @@
   "title": "The Last of Us Part II",
   "year": 2020,
   "cover": "co5ziw",
-  "votes": 1845,
+  "votes": 1846,
   "genres": [
    "Shooter",
    "Adventure"
@@ -1019,7 +1019,7 @@
   "title": "Dragon Age: Origins",
   "year": 2009,
   "cover": "co2mvs",
-  "votes": 1764,
+  "votes": 1765,
   "genres": [
    "Role-playing (RPG)"
   ],
@@ -1281,7 +1281,7 @@
   "title": "NieR:Automata",
   "year": 2017,
   "cover": "co5pcj",
-  "votes": 1611,
+  "votes": 1612,
   "genres": [
    "Role-playing (RPG)",
    "Hack and slash/Beat 'em up"
@@ -1332,7 +1332,7 @@
   "title": "Mafia",
   "year": 2002,
   "cover": "co1qrt",
-  "votes": 1562,
+  "votes": 1563,
   "genres": [
    "Fighting",
    "Shooter",
@@ -1725,7 +1725,7 @@
   "title": "Mafia II",
   "year": 2010,
   "cover": "co2n13",
-  "votes": 1277,
+  "votes": 1278,
   "genres": [
    "Shooter",
    "Racing",
@@ -2077,6 +2077,23 @@
   "parent": null
  },
  {
+  "igdbId": 75235,
+  "title": "Ghost of Tsushima",
+  "year": 2020,
+  "cover": "co2crj",
+  "votes": 1176,
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "platforms": [
+   "PS4",
+   "PS5"
+  ],
+  "parent": null
+ },
+ {
   "igdbId": 866,
   "title": "Sid Meier's Civilization V",
   "year": 2010,
@@ -2091,23 +2108,6 @@
    "Linux",
    "PC",
    "Mac"
-  ],
-  "parent": null
- },
- {
-  "igdbId": 75235,
-  "title": "Ghost of Tsushima",
-  "year": 2020,
-  "cover": "co2crj",
-  "votes": 1175,
-  "genres": [
-   "Role-playing (RPG)",
-   "Hack and slash/Beat 'em up",
-   "Adventure"
-  ],
-  "platforms": [
-   "PS4",
-   "PS5"
   ],
   "parent": null
  },
@@ -4103,7 +4103,7 @@
   "title": "Dragon Age II",
   "year": 2011,
   "cover": "co2mw1",
-  "votes": 706,
+  "votes": 707,
   "genres": [
    "Role-playing (RPG)",
    "Adventure"

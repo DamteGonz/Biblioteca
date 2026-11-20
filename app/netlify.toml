@@ -1,6 +1,5 @@
-# Despliegue en Netlify: la app vive en app/ y se sirve desde la raíz del dominio.
+# Configuración cuando se despliega la carpeta app/ directamente.
 [build]
-  base = "app"
   command = "npm install --include=dev && npx vite build"
   publish = "dist"
 
@@ -8,7 +7,6 @@
   BASE_PATH = "/"
   NODE_VERSION = "20"
 
-# Cualquier ruta carga la app (navegación por pestañas en el cliente).
 [[redirects]]
   from = "/*"
   to = "/index.html"

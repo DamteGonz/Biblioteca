@@ -15,6 +15,7 @@ Los elementos con `revisar` tienen el título por confirmar.
 
 ## App
 - Código en `app/` (Vite + React + Supabase, instalable como PWA).
-- Se publica sola en GitHub Pages con `.github/workflows/pages.yml`: https://damtegonz.github.io/Biblioteca/
+- Web principal (Netlify): https://biblioteca-damte.netlify.app — se despliega la carpeta `app/` con `app/netlify.toml`.
+- Copia en GitHub Pages (`.github/workflows/pages.yml`): https://damtegonz.github.io/Biblioteca/
 - Base de datos: Supabase (`supabase/schema.sql`). Cada usuario solo ve y edita sus propios datos.
 - `scripts/build_app_data.py` genera `app/public/data/` (archivo inicial y mazos para deslizar).

@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Cover } from "../components/Cover";
+import { Distribucion } from "../components/Distribucion";
 import { NotaBadge } from "../components/RatingPicker";
 import { useStore } from "../lib/store";
 import { AÑOS, TIPOS, fmtNota, notaEnAño, type Item } from "../lib/types";
@@ -28,7 +29,7 @@ export function Stats({ onAbrir }: { onAbrir: (it: Item) => void }) {
       .sort((a, b) => (b.nota ?? -1) - (a.nota ?? -1) || a.it.title.localeCompare(b.it.title));
     const notas = lista.map((x) => x.nota).filter((n): n is number => n != null);
     const media = notas.length ? notas.reduce((a, b) => a + b, 0) / notas.length : null;
-    return { ...t, lista, media, dieces: notas.filter((n) => n === 10).length };
+    return { ...t, lista, notas, media, dieces: notas.filter((n) => n === 10).length };
   }).filter((t) => t.lista.length);
 
   const titulo = periodo === "vida" ? "Toda mi vida" : periodo === "pre" ? "Antes de 2021" : String(periodo);
@@ -68,6 +69,7 @@ export function Stats({ onAbrir }: { onAbrir: (it: Item) => void }) {
             <h2>Top {t.plural.toLowerCase()}</h2>
             {t.dieces > 0 && <span className="ranking-meta">{t.dieces} {t.dieces > 1 ? "dieces" : "diez"}</span>}
           </header>
+          <Distribucion notas={t.notas} plural={t.plural} />
           <ol>
             {t.lista.slice(0, 10).map(({ it, nota }, i) => (
               <li key={it.id}>

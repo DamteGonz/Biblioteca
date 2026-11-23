@@ -3,7 +3,7 @@ import { Cover } from "../components/Cover";
 import { Icon } from "../components/Icon";
 import { NotaBadge } from "../components/RatingPicker";
 import { useStore } from "../lib/store";
-import { AÑOS, ESTADOS, TIPOS, notaEnAño, type Estado, type Item, type Tipo } from "../lib/types";
+import { AÑOS, ESTADOS, TIPOS, TRAMOS, escalaNota, notaEnAño, tramoDe, type Tramo, type Estado, type Item, type Tipo } from "../lib/types";
 
 type Periodo = "todo" | "pre" | number;
 type Filtro = "vistos" | "pendientes" | "a_medias" | "sin_nota";
@@ -22,6 +22,7 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
   const [periodo, setPeriodo] = useState<Periodo>("todo");
   const [filtro, setFiltro] = useState<Filtro>("vistos");
   const [orden, setOrden] = useState<Orden>("nota");
+  const [tramo, setTramo] = useState<Tramo | null>(null);
   const [q, setQ] = useState("");
 
   const lista = useMemo(() => {
@@ -31,6 +32,10 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
       if (tipo !== "todo" && it.type !== tipo) return false;
       if (!f.estados.includes(it.status)) return false;
       if (filtro === "sin_nota" && it.rating != null) return false;
+      if (tramo != null) {
+        const n = typeof periodo === "number" ? notaEnAño(it, periodo) : it.rating;
+        if (n == null || tramoDe(n) !== tramo) return false;
+      }
       if (periodo === "pre" && !it.pre2021) return false;
       if (typeof periodo === "number" && !it.years.includes(periodo)) return false;
       if (texto && !`${it.title} ${it.original_title ?? ""}`.toLowerCase().includes(texto)) return false;
@@ -44,7 +49,7 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
       : b.updated_at.localeCompare(a.updated_at),
     );
     return res;
-  }, [items, tipo, periodo, filtro, orden, q]);
+  }, [items, tipo, periodo, filtro, orden, q, tramo]);
 
   const media = useMemo(() => {
     const n = lista.map((it) => (typeof periodo === "number" ? notaEnAño(it, periodo) : it.rating)).filter((x): x is number => x != null);
@@ -78,6 +83,18 @@ export function Archive({ onAbrir }: { onAbrir: (it: Item) => void }) {
         ))}
         <button className={`chip suave ${periodo === "pre" ? "on" : ""}`} onClick={() => setPeriodo("pre")}>Antes de 2021</button>
       </div>
+
+      {filtro !== "pendientes" && (
+        <div className="chips" aria-label="Nota">
+          <button className={`chip suave ${tramo == null ? "on" : ""}`} onClick={() => setTramo(null)}>Todas las notas</button>
+          {TRAMOS.map((t) => (
+            <button key={t.id} className={`chip suave chip-nota ${tramo === t.id ? "on" : ""}`} onClick={() => setTramo(tramo === t.id ? null : t.id)}
+              style={{ ["--nota-bg" as string]: escalaNota(t.id === 5 ? 5 : t.id).bg }}>
+              <span className="punto" aria-hidden="true" />{t.id === 10 ? "★ 10" : t.nombre}
+            </button>
+          ))}
+        </div>
+      )}
 
       <div className="fila-controles">
         <div className="segmentado">

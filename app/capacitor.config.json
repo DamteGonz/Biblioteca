@@ -1,0 +1,9 @@
+{
+  "appId": "it.damtegonz.biblioteca",
+  "appName": "Biblioteca",
+  "webDir": "dist",
+  "backgroundColor": "#0a0a0b",
+  "android": {
+    "backgroundColor": "#0a0a0b"
+  }
+}

@@ -7,7 +7,8 @@ export default defineConfig({
   base: process.env.BASE_PATH ?? "/Biblioteca/",
   plugins: [
     react(),
-    VitePWA({
+    // En la APK (NATIVE=1) no hace falta service worker: la app ya va dentro del teléfono.
+    !process.env.NATIVE && VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["icon.svg"],
       manifest: {

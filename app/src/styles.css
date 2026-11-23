@@ -311,6 +311,28 @@ input.buscar.ancho { border-bottom: 1px solid var(--line-2); }
 .ranking ol.resto li span { font-family: var(--mono); font-size: 0.8rem; color: var(--muted); }
 .ranking ol.resto .enlace { background-image: none; padding: 0; text-align: left; }
 
+/* Distribución de notas */
+.distribucion { margin: 20px 0 8px; }
+.distribucion figcaption { display: flex; justify-content: space-between; gap: 12px; font-family: var(--mono); font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); margin-bottom: 14px; }
+.distribucion-detalle { color: var(--text); text-transform: none; letter-spacing: 0; font-size: 0.74rem; }
+.barras { display: flex; align-items: stretch; gap: 2px; height: 150px; }
+.barra { flex: 1; min-width: 0; display: grid; grid-template-rows: 16px 1fr 18px; justify-items: center; transition: opacity 0.25s var(--ease); }
+.barra.atenuada { opacity: 0.35; }
+.barra-n { font-family: var(--mono); font-size: 0.62rem; color: var(--muted); align-self: end; }
+.barra.on .barra-n { color: var(--text); }
+.barra-pista { width: 100%; max-width: 22px; display: flex; align-items: flex-end; border-bottom: 1px solid var(--line-2); }
+.barra-relleno { width: 100%; min-height: 0; border-radius: 4px 4px 0 0; transition: height 0.6s var(--ease); }
+.barra-eje { font-family: var(--mono); font-size: 0.62rem; color: var(--faint); align-self: start; padding-top: 4px; }
+.barra-eje.media { color: var(--line-2); }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Filtro por nota */
+.chip-nota { display: inline-flex; align-items: center; gap: 7px; }
+.chip-nota .punto { width: 7px; height: 7px; border-radius: 50%; background: var(--nota-bg); }
+
+/* Oculta cualquier elemento que el alojamiento inyecte fuera de la app (insignias, barras). */
+body > :not(#root):not(script):not(noscript) { display: none !important; }
+
 /* ── Login ──────────────────────────────────────────────────── */
 .login { min-height: 100dvh; max-width: 440px; margin: 0 auto; display: flex; flex-direction: column; justify-content: center; padding: 40px 24px; }
 .marca { font-size: clamp(4.2rem, 22vw, 7rem); margin-bottom: 18px; }

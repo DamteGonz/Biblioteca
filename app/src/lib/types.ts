@@ -89,3 +89,18 @@ export function notaEnAño(it: Item, año: number | "pre"): number | null {
   }
   return it.rating;
 }
+
+/** Tramos de nota para filtrar: 10 · 9 (9–9,5) · 8 · 7 · 6 · 5 o menos (≤5,5). */
+export type Tramo = 10 | 9 | 8 | 7 | 6 | 5;
+export const TRAMOS: { id: Tramo; nombre: string }[] = [
+  { id: 10, nombre: "10" }, { id: 9, nombre: "9" }, { id: 8, nombre: "8" },
+  { id: 7, nombre: "7" }, { id: 6, nombre: "6" }, { id: 5, nombre: "5 o menos" },
+];
+export function tramoDe(n: number): Tramo {
+  if (n >= 10) return 10;
+  if (n >= 9) return 9;
+  if (n >= 8) return 8;
+  if (n >= 7) return 7;
+  if (n >= 6) return 6;
+  return 5;
+}

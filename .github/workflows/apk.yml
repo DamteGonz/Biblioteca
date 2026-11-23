@@ -1,0 +1,58 @@
+name: APK Android
+
+on:
+  push:
+    branches: [ccr-c0102d6e-wx67pu]
+    paths: ["app/**", ".github/workflows/apk.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: true
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - name: Compilar la web para la app
+        working-directory: app
+        env:
+          NATIVE: "1"
+          BASE_PATH: /
+        run: |
+          npm ci
+          npx vite build
+          npx cap sync android
+      - name: Compilar la APK
+        working-directory: app/android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+          cp app/build/outputs/apk/debug/app-debug.apk ../../Biblioteca.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Biblioteca-apk
+          path: Biblioteca.apk
+      - name: Publicar para descargar
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: apk
+          name: Biblioteca para Android
+          body: |
+            Última versión de la app (compilación ${{ github.run_number }}).
+            Descarga **Biblioteca.apk** desde el móvil e instálala. Para actualizar, desinstala la versión anterior e instala esta: tus datos están en la nube y no se pierden.
+          files: Biblioteca.apk
+          make_latest: true
